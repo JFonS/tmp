@@ -1,0 +1,35 @@
+{
+  "nuvola" : {
+    "window" : {
+      "maximized" : false,
+      "sidebar" : {
+        "position" : 837
+      },
+      "x" : 0,
+      "y" : 27,
+      "width" : 1174,
+      "height" : 600
+    },
+    "dark_theme" : false
+  },
+  "web_app" : {
+    "last_uri" : "http://www.deezer.com/playlist/1221939021"
+  },
+  "component" : {
+    "scrobbler" : {
+      "enabled" : false
+    },
+    "notifications" : {
+      "enabled" : false
+    },
+    "unity_launcher" : {
+      "enabled" : false
+    },
+    "tray_icon" : {
+      "enabled" : false
+    }
+  },
+  "player" : {
+    "background_playback" : true
+  }
+}

@@ -1,0 +1,2115 @@
+mono profile = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Initialize mono
+Mono path[0] = '/opt/Unity/Editor/Data/Managed'
+Mono path[1] = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono path[2] = '/opt/Unity/Editor/Data/UnityScript'
+Mono path[3] = '/opt/Unity/Editor/Data/Mono/lib/mono/2.0'
+Mono config path = '/opt/Unity/Editor/Data/Mono/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y
+Desktop is 1920 x 1080 @ 60 Hz
+
+Selecting FBConfig
+GLX_FBCONFIG_ID=237
+GLX_BUFFER_SIZE=32
+GLX_DOUBLEBUFFER=1
+GLX_RED_SIZE=8
+GLX_GREEN_SIZE=8
+GLX_BLUE_SIZE=8
+GLX_ALPHA_SIZE=0
+GLX_DEPTH_SIZE=24
+GLX_STENCIL_SIZE=8
+GLX_SAMPLES_ARB=0
+GLX_SAMPLE_BUFFERS_ARB=0
+GLX_CONFIG_CAVEAT=NONE
+
+GPU_MEMORY_INFO_DEDICATED_VIDMEM_NVX: 524288
+OpenGL:
+    Version:  OpenGL 3.3 [3.3.0 NVIDIA 331.113]
+    Renderer: GeForce 210/PCIe/SSE2
+    Vendor:   NVIDIA Corporation
+    VRAM:     512 MB
+    Extensions: GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_clear_buffer_object GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback_instanced GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_sRGB_decode GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback2 GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_x11_sync_object GL_EXT_import_sync_object GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KHR_debug GL_KTX_buffer_region GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_ES1_1_compatibility GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_gpu_program4_1 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_path_rendering GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_buffer_load GL_NV_texgen_reflection GL_NV_texture_barrier GL_NV_texture_compression_vtc GL_NV_texture_env_combine4 GL_NV_texture_expand_normal GL_NV_texture_multisample GL_NV_texture_rectangle GL_NV_texture_shader GL_NV_texture_shader2 GL_NV_texture_shader3 GL_NV_transform_feedback GL_NV_transform_feedback2 GL_NV_vdpau_interop GL_NV_vertex_array_range GL_NV_vertex_array_range2 GL_NV_vertex_buffer_unified_memory GL_NV_vertex_program GL_NV_vertex_program1_1 GL_NV_vertex_program2 GL_NV_vertex_program2_option GL_NV_vertex_program3 GL_NVX_conditional_render GL_NVX_gpu_memory_info GL_SGIS_generate_mipmap GL_SGIS_texture_lod GL_SGIX_depth_texture GL_SGIX_shadow GL_SUN_slice_accum 
+GLX Extensions: GLX_EXT_visual_info GLX_EXT_visual_rating GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGI_video_sync GLX_SGI_swap_control GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_buffer_age GLX_ARB_create_context GLX_ARB_create_context_profile GLX_EXT_create_context_es_profile GLX_EXT_create_context_es2_profile GLX_ARB_create_context_robustness GLX_ARB_multisample GLX_NV_float_buffer GLX_ARB_fbconfig_float GLX_EXT_framebuffer_sRGB GLX_NV_multisample_coverage GLX_ARB_get_proc_address 
+Setting maxVSyncInterval to 4
+GL: Detected 512 MB VRAM
+IsTimeToCheckForNewEditor: Update time 0 current 1440921931
+CreateDirectory '/home/jfons/.local/share/unity3d/Unity' failed: 
+[0830/100532:ERROR:gpu_channel_host.cc(148)] GpuChannelHost::CreateViewCommandBuffer failed.
+[0830/100532:ERROR:webgraphicscontext3d_command_buffer_impl.cc(256)] Failed to initialize command buffer.
+[0830/100532:ERROR:gpu_channel_host.cc(148)] GpuChannelHost::CreateViewCommandBuffer failed.
+[0830/100532:ERROR:webgraphicscontext3d_command_buffer_impl.cc(256)] Failed to initialize command buffer.
+[0830/100532:ERROR:gpu_channel_host.cc(148)] GpuChannelHost::CreateViewCommandBuffer failed.
+[0830/100532:ERROR:webgraphicscontext3d_command_buffer_impl.cc(256)] Failed to initialize command buffer.
+[0830/100532:ERROR:gpu_channel_host.cc(148)] GpuChannelHost::CreateViewCommandBuffer failed.
+[0830/100532:ERROR:webgraphicscontext3d_command_buffer_impl.cc(256)] Failed to initialize command buffer.
+[0830/100532:ERROR:gpu_channel_host.cc(148)] GpuChannelHost::CreateViewCommandBuffer failed.
+[0830/100532:ERROR:webgraphicscontext3d_command_buffer_impl.cc(256)] Failed to initialize command buffer.
+
+LICENSE SYSTEM [2015830 10:5:57] Opening https://license.unity3d.com/update/poll?cmd=9&tx_id=4d0cbcfbf39d54a67ae44b4d7134817e
+
+
+LICENSE SYSTEM [2015830 10:5:57] Posting <?xml version="1.0" encoding="UTF-8"?><root><SystemInfo><IsoCode>en</IsoCode><UserName>jfons</UserName><OperatingSystem>Linux 3.13 LinuxMint 17.1 64bit</OperatingSystem><OperatingSystemNumeric>313</OperatingSystemNumeric><ProcessorType>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz</ProcessorType><ProcessorSpeed>2000</ProcessorSpeed><ProcessorCount>4</ProcessorCount><ProcessorCores>4</ProcessorCores><PhysicalMemoryMB>3952</PhysicalMemoryMB><ComputerName>marenostrum-linux</ComputerName><ComputerModel>PC</ComputerModel><UnityVersion>5.1.0f3</UnityVersion></SystemInfo><License id="Terms"><MachineID Value="TaEN+CmdWJns6jqERtz3seHKWdo=" /><MachineBindings><Binding Key="1" Value="f71b2e0a12b476fa532161af548cb939" /><Binding Key="2" Value="f71b2e0a12b476fa532161af548cb939" /></MachineBindings><UnityVersion Value="5.1.0f3" /></License></root>
+
+
+LICENSE SYSTEM [2015830 10:5:58] Received https://license.unity3d.com/update/poll?cmd=9&tx_id=4d0cbcfbf39d54a67ae44b4d7134817e
+
+LICENSE SYSTEM [2015830 10:5:58] Headers:
+    HTTP/1.1 200 OK
+    Server: nginx/1.2.1
+    Date: Sun, 30 Aug 2015 08:05:58 GMT
+    Content-Type: application/xml; charset=utf-8
+    Content-Length: 121
+    Connection: keep-alive
+    Status: 200 OK
+    X-Frame-Options: SAMEORIGIN
+    X-XSS-Protection: 1; mode=block
+    X-Content-Type-Options: nosniff
+    ETag: "e35360cd0acd9add7589eabea2526588"
+    Cache-Control: max-age=0, private, must-revalidate
+    Set-Cookie: _activation_session=YThZQlZac2QrWUZ0MlNqTW1WTWJzMnBUeVh2MWI5V2ZtZHZlKzY3bi9zTUVGdlpxYlZCaFg3SmlrTnRhSmhkRVF2ZWUzbTNFWkQ3NGROYm9FQ3NkemNoSXVQdWNFNWd3S1BGN1FhQnNtNUw1emxaT1FmaFlES3JXRE5WMU5NMHN2bk80OGR4UE1EaGdPaGhTUTROMlNBPT0tLWRpMmxyYU9NWkhEOGc3K1pKN29qcXc9PQ%3D%3D--bc256fbb320a9ffdb2188e5b85c8a43665d6ad91; path=/; secure; HttpOnly
+    X-Request-Id: 34bc6e21-1751-4501-906a-1dcbd811c00f
+    X-Runtime: 0.356803
+    Accept-Ranges: bytes
+    X-Varnish: 908857287
+    Age: 0
+    Via: 1.1 varnish
+    Set-Cookie: SERVERID=varnish01; path=/
+
+
+LICENSE SYSTEM [2015830 10:6:5] Opening https://activation.unity3d.com/license.fcgi?CMD=9&TX=4d0cbcfbf39d54a67ae44b4d7134817e&RX=4676a6aed6f610125e736fea9060a02abd6fb3bd
+
+
+LICENSE SYSTEM [2015830 10:6:5] Posting <?xml version="1.0" encoding="UTF-8"?><root><SystemInfo><IsoCode>en</IsoCode><UserName>jfons</UserName><OperatingSystem>Linux 3.13 LinuxMint 17.1 64bit</OperatingSystem><OperatingSystemNumeric>313</OperatingSystemNumeric><ProcessorType>Intel(R) Core(TM)2 Quad  CPU   Q8200  @ 2.33GHz</ProcessorType><ProcessorSpeed>2000</ProcessorSpeed><ProcessorCount>4</ProcessorCount><ProcessorCores>4</ProcessorCores><PhysicalMemoryMB>3952</PhysicalMemoryMB><ComputerName>marenostrum-linux</ComputerName><ComputerModel>PC</ComputerModel><UnityVersion>5.1.0f3</UnityVersion></SystemInfo><License id="Terms"><MachineID Value="TaEN+CmdWJns6jqERtz3seHKWdo=" /><MachineBindings><Binding Key="1" Value="f71b2e0a12b476fa532161af548cb939" /><Binding Key="2" Value="f71b2e0a12b476fa532161af548cb939" /></MachineBindings><UnityVersion Value="5.1.0f3" /></License></root>
+
+
+LICENSE SYSTEM [2015830 10:6:6] Received https://activation.unity3d.com/license.fcgi?CMD=9&TX=4d0cbcfbf39d54a67ae44b4d7134817e&RX=4676a6aed6f610125e736fea9060a02abd6fb3bd
+
+LICENSE SYSTEM [2015830 10:6:6] Headers:
+    HTTP/1.1 200 OK
+    Server: nginx/1.2.1
+    Date: Sun, 30 Aug 2015 08:06:06 GMT
+    Content-Type: text/xml; charset=ISO-8859-1
+    Content-Length: 1943
+    Connection: keep-alive
+    Accept-Ranges: bytes
+    X-Varnish: 908858372
+    Age: 0
+    Via: 1.1 varnish
+    Set-Cookie: SERVERID=varnish01; path=/
+
+
+LICENSE SYSTEM [2015830 10:6:6] No start/stop license dates set
+
+LICENSE SYSTEM [2015830 10:6:6] Next license update check is after 2015-08-31T08:06:06
+
+[0830/100701:ERROR:browser_main_loop.cc(207)] Gtk: gtk_file_chooser_default_set_current_name: assertion 'impl->action == GTK_FILE_CHOOSER_ACTION_SAVE || impl->action == GTK_FILE_CHOOSER_ACTION_CREATE_FOLDER' failed
+/home/jfons/Projects/Drop
+UpdateMenuTitleForLanguage: 10
+Using libudev for joystick management
+
+
+Importing game controller configs
+Rebuilding Library because the asset database could not be found!
+ 
+(Filename: /home/builduser/buildslave/unity/build/Editor/Src/AssetPipeline/AssetInterface.cpp Line: 2038)
+
+AudioManager: Using PulseAudio: Default Output Device
+Loading GUID <-> Path mappings...0,000668 seconds
+Loading Asset Database...0,000014 seconds
+AssetDatabase consistency checks...0,000162 seconds
+Initialize engine version: 5.1.0f3 (082daf2619e1)
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Xml.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Configuration.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll (this message is harmless)
+Initializing Unity.PackageManager (PackageManager) v5.1.0 for Unity v5.1.0f3
+Setting Android v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting StandaloneLinux v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting StandaloneOSXIntel v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer
+Setting Tizen v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer
+Setting WebGL v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting StandaloneWindows v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting GUISystem v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+Setting UNetHLAPI v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+Setting UnityAnalytics v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+Setting IL2CPP v0.10.1 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/il2cpp
+Registering custom dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0,023449 seconds.
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Refreshing native plugins compatible for Editor in 0,00 ms, found 0 plugins.
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  1,054 seconds
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Mono.Security.dll (this message is harmless)
+Registered platform support modules in: 0.1873401s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for Android target not found
+Downloading http://update.unity3d.com/5.1/ivy.xml to /tmp/unity/f15f924a-621d-49d1-8548-e56af1d0a0b8/ivy.xml
+Validating Project structure ... 0,012508 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0,002236 seconds.
+Refresh: detecting if any assets need to be imported or removed ... 
+Hashing assets ... 0,015300 seconds
+----- Compute hash(es) for 18 asset(s).
+
+*** 85ba90964c5a28a40b89817142fbeed7 replaces fa8709e9e36f047598cc320927a5dc44 at path assets/ball.cs 
+*** aed0507b4a2e55f4099902a15784c10e replaces f2c556bad205f4e11b10558f374bbbd1 at path assets/cocomat light-trial.ttf 
+*** 4be7b3ce11681564dbbc4365ce6a52aa replaces 5b965805ccbf040a0bb37c66a13bbda2 at path assets/game.unity 
+*** 98c11ccabba58f842bbf25e800373fde replaces cb718a7cece9a452eaa8501f9cbebf79 at path assets/icons/dropicon.psd 
+*** 3b8f1a1dcaca287448b668dadb4bc1a8 replaces 1d27f95b1de6b4875ad1ade1849c2d73 at path assets/icons/dropicon_big.png 
+*** a3b6ce4f4e3079d418e7e1d30623861f replaces 969c5418994644d7282671629eee6267 at path assets/icons/dropicon_little.png 
+*** 6d4f8336ce456ae4b9a4b9cd93adf420 replaces 814377a2145a04d3084c9d8fb581b22a at path assets/icons/dropicon_normal.png 
+*** eb1f13aa91eb0af4aa961112d3e1f680 replaces 717b21d2c146e48759d248dc0726e6dd at path assets/icons/dropicon__very_little.png 
+*** 58642b0f5868cf445ac374a4bce6c914 replaces 6f6d658390e754921ac1aa13186e958c at path assets/menu.cs 
+*** b9f0b0f20adf21e4c878d3651766ae7b replaces 0d8796d7d17414a92b74141f34d01ff8 at path assets/menu.unity 
+*** 92d9611ad1521184ca0b2919966505f4 replaces 7c9d6d149d87c4f72911f0a089609ee8 at path assets/tutorial.unity 
+*** a1c25319254ea304a84044231cec4595 replaces 71446df2bf034445496a5d4669281743 at path assets/tutorialmanager.cs 
+*** c7d7cab8285ce4c4999aea7369855c64 replaces 879d8e3d7a2ad40138ce421533223388 at path assets/ball.png 
+*** 3b457bc394de5c349be04abb00b23212 replaces 65cfcb614c326404697f6d22e481f53a at path assets/beep.wav 
+*** 19e8d0ae7494a6f44b58a2059b54affb replaces 28b0190486f5043e084c2283f01bc05a at path assets/bg_music.ogg 
+*** 5062c429d9813a94fa2a3992cd6544be replaces b8ae4dc284f9d4b3e8c2f6c3d1aa542f at path assets/click.wav 
+*** e894f9e3f443f15439b7ee7af212dc53 replaces 590b656bee0a046eead3d73ce69e16f9 at path assets/mark.png 
+*** b6029418e84da4c45991a32cf5db9efd replaces d42edbf04c81b456e9a69e8c6066efcf at path assets/point.png 
+Refresh: elapses 0,234256 seconds
+Refresh: trashing asset 00000000000000000000000000000000
+Refresh: trashing asset d42edbf04c81b456e9a69e8c6066efcf
+Refresh: trashing asset 65cfcb614c326404697f6d22e481f53a
+Refresh: trashing asset 814377a2145a04d3084c9d8fb581b22a
+Refresh: trashing asset b8ae4dc284f9d4b3e8c2f6c3d1aa542f
+Refresh: trashing asset 717b21d2c146e48759d248dc0726e6dd
+Refresh: trashing asset 71446df2bf034445496a5d4669281743
+Refresh: trashing asset 6f6d658390e754921ac1aa13186e958c
+Refresh: trashing asset 28b0190486f5043e084c2283f01bc05a
+Refresh: trashing asset 7c9d6d149d87c4f72911f0a089609ee8
+Refresh: trashing asset 5b965805ccbf040a0bb37c66a13bbda2
+Refresh: trashing asset 0d8796d7d17414a92b74141f34d01ff8
+Refresh: trashing asset 969c5418994644d7282671629eee6267
+Refresh: trashing asset fa8709e9e36f047598cc320927a5dc44
+Refresh: trashing asset f2c556bad205f4e11b10558f374bbbd1
+Refresh: trashing asset 1d27f95b1de6b4875ad1ade1849c2d73
+Refresh: trashing asset 590b656bee0a046eead3d73ce69e16f9
+Refresh: trashing asset cb718a7cece9a452eaa8501f9cbebf79
+Refresh: trashing asset 879d8e3d7a2ad40138ce421533223388
+Updating Assets - GUID: 00000000000000001000000000000000...
+ done. [Time: 59,585003 ms] 
+Updating ProjectSettings/InputManager.asset - GUID: 00000000000000002000000000000000...
+ done. [Time: 29,691000 ms] 
+Updating ProjectSettings/TagManager.asset - GUID: 00000000000000003000000000000000...
+ done. [Time: 29,336000 ms] 
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 36,917999 ms] 
+Updating ProjectSettings/NavMeshAreas.asset - GUID: 00000000000000004100000000000000...
+Task failed: Verifier Task
+ done. [Time: 35,753002 ms] 
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 44,020000 ms] 
+Updating ProjectSettings/Physics2DSettings.asset - GUID: 00000000000000005100000000000000...
+ done. [Time: 34,632999 ms] 
+Updating ProjectSettings/AudioManager.asset - GUID: 00000000000000006000000000000000...
+AudioManager: Using PulseAudio: Default Output Device
+ done. [Time: 75,631996 ms] 
+Updating ProjectSettings/GraphicsSettings.asset - GUID: 00000000000000006100000000000000...
+ done. [Time: 34,370003 ms] 
+Updating ProjectSettings/TimeManager.asset - GUID: 00000000000000007000000000000000...
+ done. [Time: 33,608997 ms] 
+Updating ProjectSettings/DynamicsManager.asset - GUID: 00000000000000008000000000000000...
+ done. [Time: 33,642002 ms] 
+Updating ProjectSettings/QualitySettings.asset - GUID: 00000000000000009000000000000000...
+ done. [Time: 34,449001 ms] 
+Updating ProjectSettings/NetworkManager.asset - GUID: 0000000000000000a000000000000000...
+ done. [Time: 31,139000 ms] 
+Updating ProjectSettings/EditorBuildSettings.asset - GUID: 0000000000000000b000000000000000...
+ done. [Time: 29,971001 ms] 
+Updating ProjectSettings/EditorSettings.asset - GUID: 0000000000000000c000000000000000...
+ done. [Time: 29,703001 ms] 
+Updating Assets/Game.unity - GUID: 4be7b3ce11681564dbbc4365ce6a52aa...
+ done. [Time: 26,853001 ms] 
+Updating Assets/Icons - GUID: 88a5cf02637365c41a87cba3b526c10a...
+ done. [Time: 27,629000 ms] 
+Updating Assets/Tutorial.unity - GUID: 92d9611ad1521184ca0b2919966505f4...
+ done. [Time: 26,787001 ms] 
+Updating Assets/Menu.unity - GUID: b9f0b0f20adf21e4c878d3651766ae7b...
+ done. [Time: 34,926998 ms] 
+Updating Assets/Menu.cs - GUID: 58642b0f5868cf445ac374a4bce6c914...
+There are inconsistent line endings in the 'Assets/Menu.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+ 
+(Filename: Assets/Menu.cs Line: -1)
+
+ done. [Time: 120,318001 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll - GUID: 5f32cd94baa94578a686d4b9d6b660f7...
+ done. [Time: 123,685997 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll - GUID: 80a3616ca19596e4da0f10f14d241e9f...
+ done. [Time: 136,020996 ms] 
+Updating Assets/Ball.cs - GUID: 85ba90964c5a28a40b89817142fbeed7...
+ done. [Time: 88,040001 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll - GUID: 870353891bb340e2b2a9c8707e7419ba...
+ done. [Time: 135,709000 ms] 
+Updating Assets/TutorialManager.cs - GUID: a1c25319254ea304a84044231cec4595...
+There are inconsistent line endings in the 'Assets/TutorialManager.cs' script. Some are Mac OS X (UNIX) and some are Windows.
+This might lead to incorrect line numbers in stacktraces and compiler errors. Many text editors can fix this using Convert Line Endings menu commands.
+ 
+(Filename: Assets/TutorialManager.cs Line: -1)
+
+ done. [Time: 36,978001 ms] 
+Updating /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll - GUID: f5f67c52d1564df4a8936ccd202a3bd8...
+- starting compile Library/ScriptAssemblies/Assembly-CSharp.dll, for buildtarget 24
+- Finished compile Library/ScriptAssemblies/Assembly-CSharp.dll
+WeaveUnetFromEditor Temp/Assembly-CSharp.dll
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.UNetWeaver.dll (this message is harmless)
+WeaveAssemblies unityPath= /opt/Unity/Editor/Data/Managed/UnityEngine.dll
+WeaveAssemblies unetPath= /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.Pdb.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.Mdb.dll (this message is harmless)
+Symbols will be read from Temp/Assembly-CSharp.dll.mdb
+Script Module: Assembly-CSharp.dll
+Reloading assemblies after successful script compilation.
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0,023472 seconds.
+Non platform assembly: /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
+Loading /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,40 ms, found 0 plugins.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Mono: successfully reloaded assembly
+- Completed reload, in  0,686 seconds
+Initializing Unity.PackageManager (PackageManager) v5.1.0 for Unity v5.1.0f3
+Setting Android v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting StandaloneLinux v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting StandaloneOSXIntel v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer
+Setting Tizen v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer
+Setting WebGL v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting StandaloneWindows v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting GUISystem v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+Setting UNetHLAPI v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+Setting UnityAnalytics v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+Setting IL2CPP v0.10.1 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/il2cpp
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0647015s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for Android target not found
+ done. [Time: 3030,246094 ms] 
+Updating Assets/Icons/DropIcon_BIG.png - GUID: 3b8f1a1dcaca287448b668dadb4bc1a8...
+ done. [Time: 1021,128052 ms] 
+Updating Assets/Icons/DropIcon_NORMAL.png - GUID: 6d4f8336ce456ae4b9a4b9cd93adf420...
+ done. [Time: 262,016998 ms] 
+Updating Assets/Icons/DropIcon.psd - GUID: 98c11ccabba58f842bbf25e800373fde...
+ done. [Time: 912,885010 ms] 
+Updating Assets/Icons/DropIcon_LITTLE.png - GUID: a3b6ce4f4e3079d418e7e1d30623861f...
+ done. [Time: 113,070999 ms] 
+Updating Assets/point.png - GUID: b6029418e84da4c45991a32cf5db9efd...
+ done. [Time: 234,283997 ms] 
+Updating Assets/ball.png - GUID: c7d7cab8285ce4c4999aea7369855c64...
+ done. [Time: 220,026993 ms] 
+Updating Assets/mark.png - GUID: e894f9e3f443f15439b7ee7af212dc53...
+ done. [Time: 212,024002 ms] 
+Updating Assets/Icons/DropIcon__VERY_LITTLE.png - GUID: eb1f13aa91eb0af4aa961112d3e1f680...
+ done. [Time: 64,827003 ms] 
+Updating Assets/bg_music.ogg - GUID: 19e8d0ae7494a6f44b58a2059b54affb...
+ done. [Time: 6258,007812 ms] 
+Updating Assets/beep.wav - GUID: 3b457bc394de5c349be04abb00b23212...
+ done. [Time: 110,791000 ms] 
+Updating Assets/click.wav - GUID: 5062c429d9813a94fa2a3992cd6544be...
+ done. [Time: 108,214996 ms] 
+Updating Assets/Cocomat Light-trial.ttf - GUID: aed0507b4a2e55f4099902a15784c10e...
+ done. [Time: 552,842041 ms] 
+Unloading 19 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 6,4 MB.
+System memory in use after: 6,4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 454.
+Total: 1,752000 ms (FindLiveObjects: 0,084000 ms CreateObjectMapping: 0,026000 ms MarkObjects: 1,573000 ms  DeleteObjects: 0,068000 ms)
+
+Refreshing native plugins compatible for Editor in 18,79 ms, found 0 plugins.
+
+----- Total AssetImport time: 14,773097s, AssetImport time: 14,520129s, Asset hashing: 0,015408s [3,1 MB, 199,969376 mb/s]
+
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0,043934 seconds
+Refreshing native plugins compatible for Editor in 3,09 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,044605s, AssetImport time: 0,000000s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+Determining assets that need to be reimported for target platform ... 0,066534 seconds.
+Refreshing native plugins compatible for Editor in 2,99 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,069774s, AssetImport time: 0,000000s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UsbDevices.cpp:UsbDevicesQuery
+Updating ProjectSettings/ProjectSettings.asset - GUID: 00000000000000004000000000000000...
+ done. [Time: 21,715000 ms] 
+Refreshing native plugins compatible for Editor in 2,70 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,081880s, AssetImport time: 0,043205s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 6,7 MB.
+System memory in use after: 6,7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 515.
+Total: 2,127000 ms (FindLiveObjects: 0,140000 ms CreateObjectMapping: 0,015000 ms MarkObjects: 1,904000 ms  DeleteObjects: 0,066000 ms)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+Using libudev for joystick management
+
+
+Importing game controller configs
+Refresh: detecting if any assets need to be imported or removed ... Refresh: elapses 0,035025 seconds
+Updating Library/BuildPlayer.prefs - GUID: 00000000000000005000000000000000...
+ done. [Time: 13,773000 ms] 
+Refreshing native plugins compatible for Editor in 5,94 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,097763s, AssetImport time: 0,045230s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+Reloading assemblies due to reload request.
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0,005354 seconds.
+Non platform assembly: /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
+Loading /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,54 ms, found 0 plugins.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,56 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,054574s, AssetImport time: 0,000000s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0,915 seconds
+Initializing Unity.PackageManager (PackageManager) v5.1.0 for Unity v5.1.0f3
+Setting Android v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting StandaloneLinux v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting StandaloneOSXIntel v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer
+Setting Tizen v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer
+Setting WebGL v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting StandaloneWindows v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting GUISystem v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+Setting UNetHLAPI v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+Setting UnityAnalytics v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+Setting IL2CPP v0.10.1 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/il2cpp
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0701747s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for Android target not found
+Issue TrimJob to reduce GI Cache size to maximum 10GB at: '/home/jfons/.cache/unity3d/GiCache'
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7f2f6f606700 -> priority: 1 
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+TrimDiskCacheJob: Current cache size 0mb
+PlayerPrefs - Creating folder: /home/jfons/.config/unity3d/DefaultCompany
+PlayerPrefs - Creating folder: /home/jfons/.config/unity3d/DefaultCompany/Drop
+
+Packing sprites:
+- Grouping sprites using the selected SpritePackerPolicy.
+- Packing 0 atlases.
+- Packing completed.
+Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0,005220 seconds.
+Non platform assembly: /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
+Loading /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,25 ms, found 0 plugins.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,17 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,052673s, AssetImport time: 0,000000s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0,899 seconds
+Initializing Unity.PackageManager (PackageManager) v5.1.0 for Unity v5.1.0f3
+Setting Android v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting StandaloneLinux v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting StandaloneOSXIntel v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer
+Setting Tizen v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer
+Setting WebGL v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting StandaloneWindows v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting GUISystem v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+Setting UNetHLAPI v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+Setting UnityAnalytics v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+Setting IL2CPP v0.10.1 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/il2cpp
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0610355s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for Android target not found
+Load scene 'Temp/__EditModeScene' time: 58,993999 ms 
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 18,7 MB.
+System memory in use after: 18,7 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 1854.
+Total: 5,578000 ms (FindLiveObjects: 0,313000 ms CreateObjectMapping: 0,077000 ms MarkObjects: 4,891000 ms  DeleteObjects: 0,296000 ms)
+
+Load scene 'Temp/__EditModeScene' time: 43,910000 ms 
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+Opening scene 'Assets/Game.unity'
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 19,8 MB.
+System memory in use after: 19,9 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1941.
+Total: 6,753000 ms (FindLiveObjects: 0,456000 ms CreateObjectMapping: 0,082000 ms MarkObjects: 6,176000 ms  DeleteObjects: 0,037000 ms)
+
+Load scene 'Assets/Game.unity' time: 99,812996 ms 
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+[00:00:00] Enlighten: Precompute started.
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+[00:00:00] Enlighten: Finished 1 Layout Systems job (0,00s execute, 0,00s integrate, 0,45s wallclock)
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+[00:00:00] Enlighten: Finished 1 Tetrahedralize Probes job (0,00s execute, 0,00s integrate, 0,05s wallclock)
+[00:00:00] Enlighten: Precompute took 0,497007 seconds.
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+[00:00:01] Enlighten: Bake started.
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+[00:00:01] Enlighten: Finished 1 Bake Runtime job (0,15s execute, 0,00s integrate, 0,17s wallclock)
+[00:00:01] Enlighten: Bake took 0,171098 seconds.
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+
+Packing sprites:
+- Repacking is not required. Check took 57,934002 ms.
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+Reloading assemblies for play mode.
+Begin MonoManager ReloadAssembly
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEngine.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.Locator.dll (this message is harmless)
+Registering custom dll's ...
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0,005272 seconds.
+Non platform assembly: /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll (this message is harmless)
+Loading /home/jfons/Projects/Drop/Library/ScriptAssemblies/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PackageManager/Unity/PackageManager/5.1.0/Unity.PackageManager.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer/UnityEditor.Tizen.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer/UnityEditor.SamsungTV.Extensions.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Platform assembly: /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll (this message is harmless)
+Symbol file LoadedFromMemory doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Loading /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll into Unity Child Domain
+Symbol file /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll.mdb doesn't match image /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll into Unity Child Domain
+Non platform assembly: /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll (this message is harmless)
+Loading /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/System.Core.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,23 ms, found 0 plugins.
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.DataContract.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Mono.Cecil.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.SerializationLogic.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/ICSharpCode.NRefactory.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Managed/Unity.IvyParser.dll (this message is harmless)
+Refreshing native plugins compatible for Editor in 2,20 ms, found 0 plugins.
+
+----- Total AssetImport time: 0,055833s, AssetImport time: 0,000001s, Asset hashing: 0,000000s [0 B, 0,000000 mb/s]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0,960 seconds
+Initializing Unity.PackageManager (PackageManager) v5.1.0 for Unity v5.1.0f3
+Setting Android v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/AndroidPlayer
+Setting StandaloneLinux v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/LinuxStandaloneSupport
+Setting StandaloneOSXIntel v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport
+Setting SamsungTV v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/STVPlayer/STVPlayer
+Setting Tizen v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/TizenPlayer/TizenPlayer
+Setting WebGL v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WebGLSupport
+Setting StandaloneWindows v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+Setting GUISystem v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/GUISystem
+Setting UNetHLAPI v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/Networking
+Setting UnityAnalytics v5.1.0 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics
+Setting IL2CPP v0.10.1 for Unity v5.1.0f3 to /opt/Unity/Editor/Data/il2cpp
+Registering platform support modules:
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Compiler.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/Boo.Lang.Parser.dll (this message is harmless)
+Platform assembly: /opt/Unity/Editor/Data/Mono/lib/mono/2.0/UnityScript.Lang.dll (this message is harmless)
+Registered platform support modules in: 0.0626913s.
+Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Native extension for SamsungTV target not found
+Native extension for Tizen target not found
+Native extension for Android target not found
+Load scene 'Temp/__EditModeScene' time: 59,032001 ms 
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+PICKINGID: -1 HOLDING: False
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Ball:Update() (at Assets/Ball.cs:71)
+ 
+(Filename: Assets/Ball.cs Line: 71)
+
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 21,0 MB.
+System memory in use after: 21,1 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1959.
+Total: 5,950000 ms (FindLiveObjects: 0,356000 ms CreateObjectMapping: 0,073000 ms MarkObjects: 5,456000 ms  DeleteObjects: 0,063000 ms)
+
+Load scene 'Temp/__EditModeScene' time: 47,987000 ms 
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/UndoPlatformDependent.cpp:SetUndoMenuNamePlatformDependent
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+Enlighten scene contents:   0 geometries.   0 instances.   0 systems.   0 probe groups.   0 cube maps. Scene is up-to-date.
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+/home/builduser/buildslave/unity/build/Editor/Platform/Linux/RepaintController.cpp:UpdateScreenManagerAndInput
+Receiving unhandled NULL exception
+Launching bug reporter
+#0  0x007fff2e23c380 in _L_unlock_13
+#1  0x007fff2e23c7c0 in GUIView::DoPaint()
+#2  0x007fff2e23c840 in TooltipManager::Update()
+#3  0x007fff2e23c8a0 in Application::TickTimer()
+#4  0x007fff2e23c9f0 in MainMessageIteration(void*)
+#5  0x007fff2e23ca00 in g_main_context_dispatch
+#6  0x007fff2e23ca80 in g_main_context_dispatch
+#7  0x007fff2e23cae0 in g_main_loop_run
+#8  0x007fff2e23cb00 in gtk_main
+#9  0x007fff2e23cb70 in main
+#10 0x007fff2e23ce90 in __libc_start_main
+#11 0x007fff2e23cf50 in _start

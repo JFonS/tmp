@@ -1,0 +1,10 @@
+2015/10/10-09:25:41.971 4493 Reusing MANIFEST /home/jfons/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2015/10/10-11:05:12.459 5209 Level-0 table #5: started
+2015/10/10-11:05:12.687 5209 Level-0 table #5: 6934421 bytes OK
+2015/10/10-11:05:12.743 5209 Delete type=0 #3
+2015/10/10-11:26:00.738 5209 Level-0 table #7: started
+2015/10/10-11:26:00.940 5209 Level-0 table #7: 6566729 bytes OK
+2015/10/10-11:26:00.971 5209 Delete type=0 #4
+2015/10/10-11:27:09.632 5209 Level-0 table #9: started
+2015/10/10-11:27:09.870 5209 Level-0 table #9: 6346471 bytes OK
+2015/10/10-11:27:09.906 5209 Delete type=0 #6

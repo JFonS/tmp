@@ -1,0 +1,784 @@
+{
+   "checksum": "76629ed8eb95fb99599b3e7d3056fb8d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13066914100229523",
+               "id": "6",
+               "meta_info": {
+                  "Speeddial": "true",
+                  "Thumbnail": "/resources/de-SD-vivaldi.jpeg"
+               },
+               "name": "Vivaldi",
+               "type": "url",
+               "url": "http://www.vivaldi.com/"
+            }, {
+               "date_added": "13066914100394290",
+               "id": "7",
+               "meta_info": {
+                  "Speeddial": "true",
+                  "Thumbnail": "/resources/en-US-SD-vivaldi.net.jpeg"
+               },
+               "name": "Vivaldi Community",
+               "type": "url",
+               "url": "http://vivaldi.net/en-US/"
+            }, {
+               "date_added": "13066914100462421",
+               "id": "8",
+               "meta_info": {
+                  "Speeddial": "true",
+                  "Thumbnail": "/resources/en-US-SD-facebook.jpeg"
+               },
+               "name": "Facebook",
+               "type": "url",
+               "url": "https://www.facebook.com/"
+            }, {
+               "date_added": "13066914100477019",
+               "id": "9",
+               "meta_info": {
+                  "Speeddial": "true",
+                  "Thumbnail": "/resources/en-US-SD-dohop.jpeg"
+               },
+               "name": "Dohop",
+               "type": "url",
+               "url": "http://www.dohop.com/?aff_wlname=Vivaldi"
+            }, {
+               "date_added": "13066914100482468",
+               "id": "10",
+               "meta_info": {
+                  "Speeddial": "true",
+                  "Thumbnail": "/resources/en-US-SD-ted.jpeg"
+               },
+               "name": "TED",
+               "type": "url",
+               "url": "http://www.ted.com/"
+            }, {
+               "children": [ {
+                  "date_added": "13066914100494575",
+                  "id": "12",
+                  "meta_info": {
+                     "Speeddial": "true",
+                     "Thumbnail": "/resources/en-US-SD-techcrunch.jpeg"
+                  },
+                  "name": "TechCrunch",
+                  "type": "url",
+                  "url": "http://techcrunch.com/"
+               }, {
+                  "date_added": "13066914100499769",
+                  "id": "13",
+                  "meta_info": {
+                     "Speeddial": "true",
+                     "Thumbnail": "/resources/en-US-SD-arstechnica.jpeg"
+                  },
+                  "name": "Ars Technica",
+                  "type": "url",
+                  "url": "http://arstechnica.com/"
+               }, {
+                  "date_added": "13066914100504224",
+                  "id": "14",
+                  "meta_info": {
+                     "Speeddial": "true",
+                     "Thumbnail": "/resources/en-US-SD-nyt.jpeg"
+                  },
+                  "name": "The New York Times",
+                  "type": "url",
+                  "url": "http://www.nytimes.com/"
+               } ],
+               "date_added": "13066914100488370",
+               "date_modified": "13066914100504224",
+               "id": "11",
+               "name": "News",
+               "type": "folder"
+            } ],
+            "date_added": "13066914100128651",
+            "date_modified": "13066914100482468",
+            "id": "5",
+            "meta_info": {
+               "Speeddial": "true"
+            },
+            "name": "Speed Dial",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100515846",
+               "id": "16",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "CyberLink",
+               "type": "url",
+               "url": "http://www.anrdoezrs.net/click-7635766-10513970"
+            }, {
+               "date_added": "13066914100520399",
+               "id": "17",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "GitHub · Build software better, together.",
+               "type": "url",
+               "url": "https://github.com/"
+            }, {
+               "date_added": "13066914100530630",
+               "id": "18",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Gizmodo - Tech By Design",
+               "type": "url",
+               "url": "http://gizmodo.com/"
+            }, {
+               "date_added": "13066914100537549",
+               "id": "19",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "The Verge",
+               "type": "url",
+               "url": "http://www.theverge.com/"
+            }, {
+               "date_added": "13066914100544731",
+               "id": "20",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Engadget | Technology News, Advice and Features",
+               "type": "url",
+               "url": "http://www.engadget.com/"
+            }, {
+               "date_added": "13066914100550915",
+               "id": "21",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "WIRED",
+               "type": "url",
+               "url": "http://www.wired.com/"
+            }, {
+               "date_added": "13066914100555626",
+               "id": "22",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Slashdot",
+               "type": "url",
+               "url": "http://slashdot.org/"
+            }, {
+               "date_added": "13066914100563769",
+               "id": "23",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "reddit: the front page of the internet",
+               "type": "url",
+               "url": "http://www.reddit.com/"
+            } ],
+            "date_added": "13066914100511075",
+            "date_modified": "13066914100563769",
+            "id": "15",
+            "name": "Technology",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100587662",
+               "id": "25",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Kabam | Play free online strategy games",
+               "type": "url",
+               "url": "https://www.kabam.com/"
+            }, {
+               "date_added": "13066914100647107",
+               "id": "26",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "GameSpot - Video Games Reviews & News",
+               "type": "url",
+               "url": "http://www.gamespot.com/"
+            }, {
+               "date_added": "13066914100679087",
+               "id": "27",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "IGN",
+               "type": "url",
+               "url": "http://www.ign.com/"
+            }, {
+               "date_added": "13066914100689112",
+               "id": "28",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Twitch",
+               "type": "url",
+               "url": "http://www.twitch.tv/"
+            }, {
+               "date_added": "13066914100698366",
+               "id": "29",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Minecraft Forum",
+               "type": "url",
+               "url": "http://www.minecraftforum.net/"
+            }, {
+               "date_added": "13066914100706393",
+               "id": "30",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Battle.net",
+               "type": "url",
+               "url": "http://www.battle.net/"
+            }, {
+               "date_added": "13066914100711944",
+               "id": "31",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "GameFAQs - Video Game Cheats, Reviews, FAQs, Message Boards, and More",
+               "type": "url",
+               "url": "http://www.gamefaqs.com/"
+            }, {
+               "date_added": "13066914100719966",
+               "id": "32",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Kongregate: Play free games online",
+               "type": "url",
+               "url": "http://www.kongregate.com/"
+            } ],
+            "date_added": "13066914100568507",
+            "date_modified": "13066914100719966",
+            "id": "24",
+            "name": "Games",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100741651",
+               "id": "34",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Brookstone | Gift Ideas, Smart Solutions, Unique Gifts for Him & Her",
+               "type": "url",
+               "url": "http://www.anrdoezrs.net/click-7635766-11967957"
+            }, {
+               "date_added": "13066914100749240",
+               "id": "35",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more",
+               "type": "url",
+               "url": "http://www.amazon.com/"
+            }, {
+               "date_added": "13066914100753359",
+               "id": "36",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Newegg.com - Computer Parts, Laptops, Electronics, and More",
+               "type": "url",
+               "url": "http://www.newegg.com/"
+            }, {
+               "date_added": "13066914100758482",
+               "id": "37",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "http://www.ebay.com/"
+            }, {
+               "date_added": "13066914100767237",
+               "id": "38",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Best Buy",
+               "type": "url",
+               "url": "http://www.bestbuy.com/"
+            }, {
+               "date_added": "13066914100770193",
+               "id": "39",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Overstock.com: Online Shopping - Bedding, Furniture, Electronics, Jewelry, Watches, Clothing & more",
+               "type": "url",
+               "url": "http://www.overstock.com/"
+            }, {
+               "date_added": "13066914100775156",
+               "id": "40",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Zappos.com | Online Shoes, Clothing, Free Shipping and Returns",
+               "type": "url",
+               "url": "http://www.zappos.com/"
+            }, {
+               "date_added": "13066914100782191",
+               "id": "41",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Shopping.com - Find, Compare, and Buy Anything in Seconds",
+               "type": "url",
+               "url": "http://www.shopping.com/"
+            }, {
+               "date_added": "13066914100787334",
+               "id": "42",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "TigerDirect.com - Electronics, Tablets, Phones, Office Supplies & Video Games",
+               "type": "url",
+               "url": "http://www.tigerdirect.com/"
+            } ],
+            "date_added": "13066914100724768",
+            "date_modified": "13066914100787334",
+            "id": "33",
+            "name": "Shopping",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100800449",
+               "id": "44",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "ESPN: The Worldwide Leader In Sports",
+               "type": "url",
+               "url": "http://www.go.com/"
+            }, {
+               "date_added": "13066914100805983",
+               "id": "45",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Yahoo Sports – Sports News, Scores, Rumors, Fantasy Games, and more",
+               "type": "url",
+               "url": "http://sports.yahoo.com/"
+            }, {
+               "date_added": "13066914100812669",
+               "id": "46",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Goal.com | Latest Football News, Transfer Rumours & More",
+               "type": "url",
+               "url": "http://www.goal.com/"
+            }, {
+               "date_added": "13066914100820338",
+               "id": "47",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "NFL.com - Official Site of the National Football League",
+               "type": "url",
+               "url": "http://www.nfl.com/"
+            }, {
+               "date_added": "13066914100825070",
+               "id": "48",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "MLB.com: The Official Site of Major League Baseball",
+               "type": "url",
+               "url": "http://www.mlb.com/"
+            }, {
+               "date_added": "13066914100832383",
+               "id": "49",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "CBSSports.com Sports News, Fantasy Scores, Sports Video",
+               "type": "url",
+               "url": "http://www.cbssports.com/"
+            }, {
+               "date_added": "13066914100837269",
+               "id": "50",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "NBA.com",
+               "type": "url",
+               "url": "http://www.nba.com/"
+            }, {
+               "date_added": "13066914100842292",
+               "id": "51",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Bleacher Report | Sports. Highlights. News. Now.",
+               "type": "url",
+               "url": "http://www.bleacherreport.com/"
+            } ],
+            "date_added": "13066914100794471",
+            "date_modified": "13066914100842292",
+            "id": "43",
+            "name": "Sports",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100856676",
+               "id": "53",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "CNN.com - Breaking News, U.S., World, Weather, Entertainment & Video News",
+               "type": "url",
+               "url": "http://www.cnn.com/"
+            }, {
+               "date_added": "13066914100861855",
+               "id": "54",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Huffington Post - Breaking News and Opinion",
+               "type": "url",
+               "url": "http://www.huffingtonpost.com/"
+            }, {
+               "date_added": "13066914100867230",
+               "id": "55",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "The Guardian | Latest news, sport and comment",
+               "type": "url",
+               "url": "http://www.theguardian.com/"
+            }, {
+               "date_added": "13066914100872410",
+               "id": "56",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Reuters.com | Business & Financial News, Breaking US & International News",
+               "type": "url",
+               "url": "http://www.reuters.com/"
+            }, {
+               "date_added": "13066914100880382",
+               "id": "57",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Washington Post: Breaking News, World, US, DC News & Analysis",
+               "type": "url",
+               "url": "http://www.washingtonpost.com/"
+            }, {
+               "date_added": "13066914100885824",
+               "id": "58",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Examiner.com",
+               "type": "url",
+               "url": "http://www.examiner.com/"
+            }, {
+               "date_added": "13066914100894113",
+               "id": "59",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "TIME - Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech Reviews",
+               "type": "url",
+               "url": "http://time.com/"
+            } ],
+            "date_added": "13066914100851145",
+            "date_modified": "13066914100894113",
+            "id": "52",
+            "name": "News",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100910844",
+               "id": "61",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "San Francisco Restaurants, Dentists, Bars, Beauty Salons, Doctors",
+               "type": "url",
+               "url": "http://www.yelp.com/"
+            }, {
+               "date_added": "13066914100918927",
+               "id": "62",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Craigslist",
+               "type": "url",
+               "url": "http://www.craigslist.org/"
+            }, {
+               "date_added": "13066914100930421",
+               "id": "63",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "LivingSocial | Discover fun things to do",
+               "type": "url",
+               "url": "https://www.livingsocial.com/"
+            }, {
+               "date_added": "13066914100938377",
+               "id": "64",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "OpenTable | Restaurants and Restaurant Reservations",
+               "type": "url",
+               "url": "http://www.opentable.com/"
+            } ],
+            "date_added": "13066914100904041",
+            "date_modified": "13066914100938377",
+            "id": "60",
+            "name": "Local",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914100956221",
+               "id": "66",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Expedia Travel: Vacations, Cheap Flights, Airline Tickets & Airfares",
+               "type": "url",
+               "url": "http://www.expedia.com/"
+            }, {
+               "date_added": "13066914100962941",
+               "id": "67",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "TripAdvisor",
+               "type": "url",
+               "url": "http://www.tripadvisor.com/"
+            }, {
+               "date_added": "13066914100967726",
+               "id": "68",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Hotels.com",
+               "type": "url",
+               "url": "http://www.hotels.com/"
+            }, {
+               "date_added": "13066914100974979",
+               "id": "69",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "http://www.booking.com/index.html?aid=807124"
+            }, {
+               "date_added": "13066914100982632",
+               "id": "70",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "KAYAK",
+               "type": "url",
+               "url": "http://www.kayak.com/"
+            }, {
+               "date_added": "13066914100988663",
+               "id": "71",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Airbnb",
+               "type": "url",
+               "url": "https://www.airbnb.com/"
+            } ],
+            "date_added": "13066914100951451",
+            "date_modified": "13066914100988663",
+            "id": "65",
+            "name": "Travel",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914101005442",
+               "id": "73",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "WSJ",
+               "type": "url",
+               "url": "http://www.wsj.com/"
+            }, {
+               "date_added": "13066914101015527",
+               "id": "74",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Bloomberg - Business, Financial & Economic News, Stock Quotes",
+               "type": "url",
+               "url": "http://www.bloomberg.com/"
+            }, {
+               "date_added": "13066914101022397",
+               "id": "75",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "The Economist - World News, Politics, Economics, Business & Finance",
+               "type": "url",
+               "url": "http://www.economist.com/"
+            }, {
+               "date_added": "13066914101030786",
+               "id": "76",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "FT.com - World business, finance and political news from the Financial Times",
+               "type": "url",
+               "url": "http://www.ft.com/"
+            }, {
+               "date_added": "13066914101038338",
+               "id": "77",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "CNBC – World Business News Leader",
+               "type": "url",
+               "url": "http://www.cnbc.com/"
+            }, {
+               "date_added": "13066914101047462",
+               "id": "78",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Forbes",
+               "type": "url",
+               "url": "http://www.forbes.com/"
+            }, {
+               "date_added": "13066914101053863",
+               "id": "79",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Seth Godin",
+               "type": "url",
+               "url": "http://www.sethgodin.com/"
+            } ],
+            "date_added": "13066914100995266",
+            "date_modified": "13066914101053863",
+            "id": "72",
+            "name": "Business",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13066914101072003",
+               "id": "81",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "http://www.youtube.com/"
+            }, {
+               "date_added": "13066914101084925",
+               "id": "82",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Netflix - Watch TV Shows Online, Watch Movies Online",
+               "type": "url",
+               "url": "https://www.netflix.com/"
+            }, {
+               "date_added": "13066914101093008",
+               "id": "83",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "BBC Shop | DVD & Blu-ray Best Sellers",
+               "type": "url",
+               "url": "http://www.awin1.com/awclick.php?mid=3712&id=214175"
+            }, {
+               "date_added": "13066914101103927",
+               "id": "84",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Spotify Web Player",
+               "type": "url",
+               "url": "https://play.spotify.com/"
+            }, {
+               "date_added": "13066914101111668",
+               "id": "85",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Dailymotion",
+               "type": "url",
+               "url": "http://www.dailymotion.com/"
+            }, {
+               "date_added": "13066914101122132",
+               "id": "86",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "IMDb - Movies, TV and Celebrities",
+               "type": "url",
+               "url": "http://www.imdb.com/"
+            }, {
+               "date_added": "13066914101131505",
+               "id": "87",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Rotten Tomatoes: Movies | TV Shows | Movie Trailers | Reviews",
+               "type": "url",
+               "url": "http://www.rottentomatoes.com/"
+            }, {
+               "date_added": "13066914101140440",
+               "id": "88",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Hulu | Free TV Shows and Movies - Watch Your Favorite TV Episodes and Movies Online",
+               "type": "url",
+               "url": "http://www.hulu.com/"
+            }, {
+               "date_added": "13066914101147964",
+               "id": "89",
+               "meta_info": {
+                  "Speeddial": "true"
+               },
+               "name": "Vimeo, Your Videos Belong Here",
+               "type": "url",
+               "url": "https://vimeo.com/"
+            } ],
+            "date_added": "13066914101063865",
+            "date_modified": "13066914101147964",
+            "id": "80",
+            "name": "Entertainment",
+            "type": "folder"
+         } ],
+         "date_added": "13066914098570396",
+         "date_modified": "0",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13066914098570405",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13066914098570406",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,2 @@
+1/8/2015 9:07:19 AM [INFO]: Initializing Mono.Addins
+1/8/2015 9:07:21 AM [ERROR]: Unparsable last-sync-date '0001-01-01T00:00:00.0000000+01:00' in /home/jfons/.config/tomboy/manifest.xml

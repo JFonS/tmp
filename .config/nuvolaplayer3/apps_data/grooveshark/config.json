@@ -1,0 +1,43 @@
+{
+  "nuvola" : {
+    "window" : {
+      "maximized" : false,
+      "x" : 463,
+      "y" : 149,
+      "width" : 642,
+      "sidebar" : {
+        "position" : 1747,
+        "page" : "developersidebar",
+        "visible" : false
+      },
+      "height" : 759
+    },
+    "dark_theme" : false
+  },
+  "web_app" : {
+    "last_uri" : "http://grooveshark.com/#!/search?q=incredibles"
+  },
+  "component" : {
+    "notifications" : {
+      "enabled" : false
+    },
+    "tray_icon" : {
+      "enabled" : false
+    },
+    "unity_launcher" : {
+      "enabled" : false
+    },
+    "mpris" : {
+      "enabled" : true
+    },
+    "developer" : {
+      "enabled" : false
+    }
+  },
+  "player" : {
+    "background_playback" : true
+  },
+  "webview" : {
+    "zoom_level" : 1
+  }
+}

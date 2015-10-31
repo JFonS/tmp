@@ -1,0 +1,1 @@
+{"version": "1.2.0", "url": "https://github.com/Mischa-Alff/ST-GLSL-Validator", "platforms": ["*"], "sublime_text": "*", "dependencies": [], "description": "A GLSL validator plugin for Sublime Text 2/3."}

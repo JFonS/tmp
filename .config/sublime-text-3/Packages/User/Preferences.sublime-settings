@@ -1,0 +1,18 @@
+{
+	"caret_extra_bottom": 1,
+	"caret_extra_top": 1,
+	"caret_extra_width": 0,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - amCoder/amCoder.tmTheme",
+	"font_face": "Ubuntu Mono",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "amCoder.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

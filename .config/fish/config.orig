@@ -1,0 +1,9 @@
+function fish_prompt
+  ~/Software/powerline-shell/powerline-shell.py $status --shell bare ^/dev/null
+end
+
+alias xampp-start="sudo /opt/lampp/xampp start"
+alias xampp-stop="sudo /opt/lampp/xampp stop"
+
+alias psgrep="ps -e | grep"
+alias django-c="python manage.py"

@@ -1,0 +1,32 @@
+###### Progress log entry 2014-12-17 19:36:34 ######
+###### Progress log entry 2014-12-17 19:40:02 ######
+###### Progress log entry 2014-12-17 22:27:33 ######
+###### Progress log entry 2015-01-05 17:52:16 ######
+###### Progress log entry 2015-02-21 10:45:23 ######
+###### Progress log entry 2015-02-27 12:45:54 ######
+###### Progress log entry 2015-03-02 09:40:04 ######
+###### Progress log entry 2015-03-05 19:50:35 ######
+###### Progress log entry 2015-03-11 20:38:54 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: softcatala.catalan.general.dictionary.by.joan.moratinos", Context = (com.sun.star.uno.XInterface) @2dc9be0 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: softcatala.catalan.general.dictionary.by.joan.moratinos", Context = (com.sun.star.uno.XInterface) @2dc9be0 } }, ArgumentPosition = (short) -1 }
+Copying: catalan.oxt
+###### Progress log entry 2015-03-15 20:30:53 ######
+###### Progress log entry 2015-05-02 11:46:27 ######
+###### Progress log entry 2015-05-03 22:29:56 ######
+###### Progress log entry 2015-05-16 10:38:05 ######
+###### Progress log entry 2015-05-17 20:43:11 ######
+###### Progress log entry 2015-05-17 21:30:07 ######
+###### Progress log entry 2015-06-21 19:27:33 ######
+###### Progress log entry 2015-06-21 19:46:25 ######
+###### Progress log entry 2015-06-21 20:12:51 ######
+###### Progress log entry 2015-06-26 10:33:03 ######
+###### Progress log entry 2015-10-07 11:53:59 ######
+###### Progress log entry 2015-10-22 19:33:55 ######
+###### Progress log entry 2015-10-24 15:14:52 ######
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: spanish.es_ANY.dicts.from.rla-es", Context = (com.sun.star.uno.XInterface) @34d1590 } }, ArgumentPosition = (short) -1 }
+ERROR: (com.sun.star.lang.IllegalArgumentException) { { { Message = "There is no such extension deployed: spanish.es_ANY.dicts.from.rla-es", Context = (com.sun.star.uno.XInterface) @34d1590 } }, ArgumentPosition = (short) -1 }
+Copying: spanish-dictionary.oxt
+###### Progress log entry 2015-10-24 15:22:10 ######
+Copying: spanish-dictionary.oxt
+###### Progress log entry 2015-10-25 09:15:57 ######
+###### Progress log entry 2015-10-25 19:40:49 ######

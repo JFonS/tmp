@@ -1,0 +1,37 @@
+[Print Settings]
+cups-NupOrient=port
+print-at-time=
+cups-job-sheets=none,none
+print-at=now
+cups-ColorMode=Monochrome
+cups-halftone=default
+cups-number-up=1
+cover-before=none
+cups-Resolution=1200x600dpi
+cover-after=none
+cups-InputSlot=Auto
+evince-print-setting-page-size=false
+resolution-x=1200
+resolution-y=600
+default-source=Auto
+media-type=plain
+evince-print-setting-page-scale=1
+resolution=1200
+cups-NupPages=1up
+cups-Quality=normal
+cups-MediaType=plain
+cups-job-priority=50
+evince-print-setting-page-autorotate=true
+printer=Samsung-CLX-3180-Series
+cups-ICM=clx3185
+
+[Page Setup]
+PPDName=A4
+DisplayName=A4
+Width=210
+Height=297
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

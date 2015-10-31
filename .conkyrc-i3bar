@@ -1,0 +1,30 @@
+background        no
+out_to_console    yes
+out_to_x    no
+update_interval   1
+total_run_times   0
+short_units   yes
+pad_percents    1
+
+override_utf8_locale yes
+
+TEXT
+[
+#Finds current volume. May need modified depending on your setup
+{"full_text": "${exec amixer get Master | grep -o "\[.*%\]"} ", "color":"\#6F8FA3"},
+${if_up eth0}
+#Shows uploadspeed
+{"full_text": "▲ [${upspeed}]", "min_width": "▲ [99999K]", "align": "center", "color":"\#51A35F"},
+#Shows downloadspeed
+{"full_text": "▼ [${downspeed}]", "min_width": "▼ [99999K]", "align": "center", "color":"\#D4726A"},
+${else}
+{"full_text": " network unreachable ", "color":"\#dc322f"},
+${endif}
+#Shows current memory usage with a bar
+{"full_text": "$mem [$membar]", "min_width": "XXXXG[xxxxxxxxxx]", "align": "center", "color":"\#6F8FA3"},
+#Shows current CPU usage with a bar
+{"full_text": "$cpu% [$cpubar]", "min_width": "100% [xxxxxxxxxx]", "align": "center", "color":"\#6F8FA3"},
+#Shows upime
+{"full_text": "↑ [${uptime}]", "min_width": "↑ [1d 24h 59m]", "align": "center", "color": "\#6F8FA3"},
+#Shows time
+{"full_text": "[${exec whoami} | ${time %a %d %b} ${time %H:%M:%S}]","color": "\#9accea"}],

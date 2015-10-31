@@ -1,0 +1,58 @@
+[global]
+    font = Terminus 10
+
+    #format = "%a: %s %b"
+    format = "<b>%s %p</b>\n%b"
+    sort = yes
+    indicate_hidden = yes
+    alignment = center
+    bounce_freq = 0
+    show_age_threshold = 50;
+
+    # Align icons left/right/off
+    icon_position = right
+    
+    # Paths to default icons.
+    icon_folders = /usr/share/icons/gnome/16x16/status/:/usr/share/icons/gnome/16x16/devices/
+
+    word_wrap = yes
+
+    geometry = "350x5-2+22"
+    transparency = 5
+
+    idle_threshold = 20
+
+    monitor = 0
+    follow = none
+
+    sticky_history = yes
+    line_height = 4
+
+    separator_height = 2;
+
+    separator_color = "#303030"
+
+    padding = 2
+    horizontal_padding = 9
+    
+    browser = /usr/bin/firefox
+
+[urgency_low]
+    background = "#303030"
+    foreground = "#909090"
+    timeout = 10
+
+[urgency_normal]
+    background = "#edb05c"
+    foreground = "#303030"
+    timeout = 20
+
+[urgency_critical]
+    background = "#ce6150"
+    foreground = "#303030"
+    timeout = 0
+
+[ignore]
+    appname = "Spotify"
+    summary = "*"
+    format = ""

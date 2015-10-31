@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Arduino-like IDE",
+		"Djaneiro",
+		"Django Manage Commands",
+		"GLSL Validator",
+		"Javascript Beautify",
+		"LESS",
+		"Lua Love",
+		"Package Control",
+		"PackageResourceViewer",
+		"Sencha",
+		"ShaderLanguages",
+		"Theme - amCoder"
+	]
+}

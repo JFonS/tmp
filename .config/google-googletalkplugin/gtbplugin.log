@@ -1,0 +1,117 @@
+[000:000] Cpu: 6.23.7, x4, 2333Mhz, 3952MB
+[000:000] Computer model: Not available
+[000:000] Browser XEmbed support present: 1
+[000:000] Browser toolkit is Gtk2.
+[000:000] Using Gtk2 toolkit
+[000:011] Starting client channel.
+[000:011] Warning(clientchannel.cc:486): 0x7f94a334d8f0: Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:011] 0x7f94a334d8f0: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"error" : -1,
+		"step" : "0"
+	}
+]
+
+[000:012] Warning(clientchannel.cc:459): 0x7f94a334d8f0: Could not initiate GoogleTalkPlugin connection
+[000:012] 0x7f94a334d8f0: GoogleTalkPlugin not running. Starting new process...
+[000:012] Starting Flute
+[000:012] Warning(pluginutils.cc:269): Failed to get GoogleTalkPlugin path. Trying default.
+[000:014] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:014] 0x7f94a334d8f0: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "2"
+	}
+]
+
+[000:015] 0x7f94a334d8f0: Waiting for GoogleTalkPlugin to start...
+[001:104] 0x7f94a334d8f0: Attempting to connect to GoogleTalkPlugin...
+[001:104] Read port file, port=53101
+[001:104] 0x7f94a334d8f0: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "0"
+	}
+]
+
+[001:122] 0x7f94a0e100b0:  sending cookie pFBrBbcYiGD5N5Ab
+[001:122] 0x7f94a334d8f0: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "1"
+	}
+]
+
+[001:135] 0x7f94a334d8f0: Initiated connection to GoogleTalkPlugin
+[001:204] 0x7f94a334d8f0: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "3"
+	}
+]
+
+[001:234] 0x7f94a334d8f0: Socket connection established
+[001:234] 0x7f94a334d8f0: ScheduleOnlineCheck: Online check in 5000ms
+[001:305] 0x7f94a0e100b0: Got cookie response, socket is authorized
+[001:305] 0x7f94a334d8f0: AUTHORIZED; socket handshake complete
+[001:334] 0x7f94a334d8f0: C->F: ["mf",2,{"appName":"wabel_mediacall","buildLabel":"chat_web_connection_server_20151020.00_p3","allowConcurrentSessions":"true","exps":["spar","hvr","bpd","mef","hc","tl","msv","ols","hem","wepcu","uif","fcom","wts","hmb","wadc","cpuadaptation","jdv3","fcaq","ia","tm","hre","vnr","gii","wvlm","fcas","ric","cc","wv","poc"],"jid":"joan.fonssanchez@gmail.com","renderer":0,"useBrowserHttp":true,"domain":"plus.google.com","useragent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0","pluginversion":"5.41.0.0"}]
+[001:334] 0x7f94a334d8f0: F->C: ["fs",{"pr":"a"}]
+[001:398] 0x7f94a334d8f0: F->C: ["mf","mf5.41","5.41.0.0",2,{"audioCodecs":[[111,"opus",2,64000,48000],[103,"ISAC",1,0,16000],[104,"ISAC",1,0,32000],[9,"G722",1,64000,8000],[102,"ILBC",1,13300,8000],[0,"PCMU",1,64000,8000],[8,"PCMA",1,64000,8000],[106,"CN",1,0,32000],[105,"CN",1,0,16000],[13,"CN",1,0,8000],[127,"red",1,0,8000],[126,"telephone-event",1,0,8000]],"audioRtpHdrExts":[{"id":1,"uri":"urn:ietf:params:rtp-hdrext:ssrc-audio-level"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"}],"bundle":1,"camDeviceName":"Unknown Camera","caps":7,"cpuAdaptVersion":1,"cpuArchitecture":1,"cpuCacheSize":2097152,"cpuFamily":6,"cpuFlags":["sse2","ssse3","sse4_1"],"cpuHasSSE2":true,"cpuModel":23,"cpuSpeed":2333,"cpuStepping":7,"cpuVendor":"GenuineIntel","cpus":4,"cpusPhysical":4,"cryptoRandom":"pCXqX1lMjFXowg4yKT8WGlI2","cryptoSuites":["AES_CM_128_HMAC_SHA1_80","AES_CM_128_HMAC_SHA1_32"],"dataChannelVersion":1,"effectsVersion":12,"gpuDescription":"","gpuDeviceId":0,"gpuDeviceName":"","gpuDriver":"","gpuDriverVersion":"","gpuVendorId":0,"iceVersion":1,"machineModel":"Not available","remotingAssistanceAllowed":1,"remotingVersion":1,"renderer":2,"rtcpMux":true,"screencast":2,"screencastLocalPreview":1,"supportsConcurrentSessions":true,"transports":["i","gice","ice"],"unsignalledRecvStreams":2,"videoCodecs":[[100,"VP8",640,400,30],[96,"rtx",640,400,30,{"apt":"100"}],[116,"red",640,400,30],[117,"ulpfec",640,400,30]],"videoRtpHdrExts":[{"id":2,"uri":"urn:ietf:params:rtp-hdrext:toffset"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"}],"vsVersion":1}]
+[001:454] 0x7f94a334d8f0: C->F: ["getdevicestate"]
+[001:455] 0x7f94a334d8f0: F->C: ["getproxyforurl",{"url":"https://relay.google.com/"}]
+[001:484] 0x7f94a334d8f0: C->F: ["proxyinfo",{"config":"DIRECT","error":0}]
+
+[001:484] 0x7f94a334d8f0: F->C: ["getdevicestate","15","0",["__default_device","Built-in Audio Analog Stereo"],"0",["__default_device","High Definition Audio Controller Digital Stereo (HDMI)","Built-in Audio Analog Stereo"],"-1",[]]
+[001:499] Starting client channel.
+[001:499] Read port file, port=53101
+[001:499] 0x7f94a334d980: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "0"
+	}
+]
+
+[001:499] 0x7f94a0e10240:  sending cookie pFBrBbcYiGD5N5Ab
+[001:499] 0x7f94a334d980: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "1"
+	}
+]
+
+[001:500] 0x7f94a334d980: Initiated connection to GoogleTalkPlugin
+[001:592] 0x7f94a334d980: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "3"
+	}
+]
+
+[001:593] 0x7f94a334d980: Socket connection established
+[001:593] 0x7f94a334d980: ScheduleOnlineCheck: Online check in 5000ms
+[001:596] 0x7f94a0e10240: Got cookie response, socket is authorized
+[001:596] 0x7f94a334d980: AUTHORIZED; socket handshake complete
+[001:597] 0x7f94a334d980: C->F: ["mf",2,{"jid":"joan.fonssanchez@gmail.com","domain":"plus.google.com","useragent":"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:41.0) Gecko/20100101 Firefox/41.0","pluginversion":"5.41.0.0"}]
+[001:597] 0x7f94a334d980: F->C: ["fs",{"pr":"a"}]
+[001:693] 0x7f94a334d980: F->C: ["mf","mf5.41","5.41.0.0",2,{"audioCodecs":[[103,"ISAC",1,0,16000],[111,"opus",2,64000,48000],[104,"ISAC",1,0,32000],[9,"G722",1,64000,8000],[102,"ILBC",1,13300,8000],[0,"PCMU",1,64000,8000],[8,"PCMA",1,64000,8000],[106,"CN",1,0,32000],[105,"CN",1,0,16000],[13,"CN",1,0,8000],[127,"red",1,0,8000],[126,"telephone-event",1,0,8000]],"audioRtpHdrExts":[{"id":1,"uri":"urn:ietf:params:rtp-hdrext:ssrc-audio-level"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"}],"camDeviceName":"Unknown Camera","caps":7,"cpuAdaptVersion":1,"cpuArchitecture":1,"cpuCacheSize":2097152,"cpuFamily":6,"cpuFlags":["sse2","ssse3","sse4_1"],"cpuHasSSE2":true,"cpuModel":23,"cpuSpeed":2333,"cpuStepping":7,"cpuVendor":"GenuineIntel","cpus":4,"cpusPhysical":4,"cryptoRandom":"+6s/Jot9lHn/aLEgkiDEpEiz","cryptoSuites":["AES_CM_128_HMAC_SHA1_80","AES_CM_128_HMAC_SHA1_32"],"dataChannelVersion":1,"effectsVersion":12,"gpuDescription":"","gpuDeviceId":0,"gpuDeviceName":"","gpuDriver":"","gpuDriverVersion":"","gpuVendorId":0,"iceVersion":1,"machineModel":"Not available","remotingAssistanceAllowed":1,"remotingVersion":1,"renderer":2,"rtcpMux":true,"screencast":2,"screencastLocalPreview":1,"supportsConcurrentSessions":true,"transports":["i","gice"],"unsignalledRecvStreams":2,"videoCodecs":[[100,"VP8",640,400,30],[116,"red",640,400,30],[117,"ulpfec",640,400,30]],"videoRtpHdrExts":[{"id":2,"uri":"urn:ietf:params:rtp-hdrext:toffset"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"}],"vsVersion":1}]
+[006:302] 0x7f94a334d8f0: HandleOnlineCheck: Starting check
+[006:302] 0x7f94a334d8f0: HandleOnlineCheck: OK; current state: 3
+[006:602] 0x7f94a334d980: HandleOnlineCheck: Starting check
+[006:603] 0x7f94a334d980: HandleOnlineCheck: OK; current state: 3

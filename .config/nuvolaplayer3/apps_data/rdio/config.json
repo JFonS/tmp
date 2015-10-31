@@ -1,0 +1,17 @@
+{
+  "nuvola" : {
+    "window" : {
+      "maximized" : false,
+      "sidebar" : {
+        "position" : 837
+      },
+      "x" : 453,
+      "y" : 169,
+      "width" : 1010,
+      "height" : 600
+    }
+  },
+  "web_app" : {
+    "last_uri" : "http://www.rdio.com/home/es-es/"
+  }
+}

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.8.5b.12.16.8b2c" icon="Search.png" search="rgb">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="0d35715c371dab9d8b52b3c09444f755" modelIndex="1779199" path="/usr/share/fritzing/pdb/core/led-rgb-4pin-anode_rbg.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Prolight RGB 3 Watt Star" modelIndex="1779200" path="/usr/share/fritzing/pdb/core/LED_Prolight_RGB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="f5sadfcefde5f807268983b38d37da5dLEDModuleID" modelIndex="1779201" path="/usr/share/fritzing/pdb/core/led-rgb-4pin-anode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RGB_matrix_v25" modelIndex="1779203" path="/usr/share/fritzing/pdb/core/RGB_matrix_v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LED-SMD_RGB(WS2812)" modelIndex="1779204" path="/usr/share/fritzing/pdb/core/sparkfun-led-WS2812.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-AnalogIC-AD725-" modelIndex="1779206" path="/usr/share/fritzing/pdb/core/sparkfun-analogic-ad725-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-HDJD-S822-QR999-WITHPIC" modelIndex="1779208" path="/usr/share/fritzing/pdb/core/sparkfun-sensors-hdjd-s822-qr999-withpic.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-LED-LED-TRICOLOR-" modelIndex="1779209" path="/usr/share/fritzing/pdb/core/sparkfun-led-led-tricolor-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-HDJD-S822-QR999-" modelIndex="1779210" path="/usr/share/fritzing/pdb/core/sparkfun-sensors-hdjd-s822-qr999-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="CathodeLEDRGBSuperfluxModuleID" modelIndex="1779212" path="/usr/share/fritzing/pdb/core/led_flux_rgb_cathode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AnodeLEDRGBSuperfluxModuleID" modelIndex="1779214" path="/usr/share/fritzing/pdb/core/led_flux_rgb_anode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="e89358121bacffbe9b6372e42e4799f4LEDModuleID" modelIndex="1779216" path="/usr/share/fritzing/pdb/core/led-rgb-6pin.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="d4d5af9700923b8a114f57961f29a8a0" modelIndex="1779218" path="/usr/share/fritzing/pdb/core/led-rgb-4pin-cathode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Electromechanical-ENCODER_RGB_CA-" modelIndex="1779220" path="/usr/share/fritzing/pdb/core/sparkfun-electromechanical-encoder_rgb_ca-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74f3591ccbd4ba20730577a93d0aeda9" modelIndex="1779222" path="/usr/share/fritzing/pdb/core/led-rgb-4pin-cathode_rbg.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

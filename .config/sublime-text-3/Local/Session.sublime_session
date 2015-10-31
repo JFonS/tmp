@@ -1,0 +1,2475 @@
+{
+	"folder_history":
+	[
+		"/home/jfons/Projects/Agriser",
+		"/home/jfons/Projects/Ramaderia",
+		"/home/jfons/Projects/PixiTest",
+		"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons",
+		"/opt/lampp/htdocs/phaser",
+		"/home/jfons/Projects/SetOnline",
+		"/home/jfons/Projects/Jungle-Law",
+		"/opt/lampp/htdocs/portalgse",
+		"/opt/lampp/htdocs/portalgse/themes",
+		"/home/jfons/Software/powerline-shell",
+		"/home/jfons/Projects/RealEngine",
+		"/home/jfons/Projects/OpenGL-Edge-Depth-Detection",
+		"/home/jfons/Projects/python-getting-started",
+		"/home/jfons/temp/less",
+		"/home/jfons/Projects/love2d-preset",
+		"/opt/lampp/htdocs",
+		"/home/jfons/Projects/Peezy2D",
+		"/home/jfons/Projects/Cheezy"
+	],
+	"last_version": 3083,
+	"last_window_id": 29,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"password",
+						"passwordfield"
+					],
+					[
+						"kern",
+						"kernelCanvas"
+					],
+					[
+						"add",
+						"addChild"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"kernel",
+						"kernel180"
+					],
+					[
+						"dis",
+						"distance_on_earth"
+					],
+					[
+						"o",
+						"objects"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"dr",
+						"drawWidth"
+					],
+					[
+						"lin",
+						"lineHeight"
+					],
+					[
+						"g",
+						"getIntersection"
+					],
+					[
+						"y",
+						"y"
+					],
+					[
+						"clo",
+						"closestIntersect"
+					],
+					[
+						"in",
+						"intersec"
+					],
+					[
+						"getI",
+						"getTile"
+					],
+					[
+						"gr",
+						"love.graphics"
+					],
+					[
+						"coll",
+						"collisionPoint"
+					],
+					[
+						"tes",
+						"testY"
+					],
+					[
+						"f",
+						"function	function"
+					],
+					[
+						"pi",
+						"point2"
+					],
+					[
+						"get",
+						"getNodeTransform"
+					],
+					[
+						"se",
+						"setRotation"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"st",
+						"startPos"
+					],
+					[
+						"im",
+						"imageRegion"
+					],
+					[
+						"sele",
+						"select"
+					],
+					[
+						"cell",
+						"cellSize"
+					],
+					[
+						"Vect",
+						"Vector2f"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"win",
+						"windowImg"
+					],
+					[
+						"dig",
+						"digitalWrite	Arduino digitalWrite"
+					],
+					[
+						"di",
+						"digitalWrite	Arduino digitalWrite"
+					],
+					[
+						"fi",
+						"fileStream"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/Love2D.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Love2D.sublime-build",
+							"Love2D"
+						],
+						[
+							"Packages/User/Love2D.sublime-build",
+							"ldoc: File"
+						],
+						[
+							"Packages/User/Love2D.sublime-build",
+							"ldoc: Project"
+						]
+					],
+					[
+						"Packages/User/Love2D.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"last_filter": "bea",
+				"selected_items":
+				[
+					[
+						"bea",
+						"Javascript Beautify"
+					],
+					[
+						"be",
+						"Javascript Beautify"
+					],
+					[
+						"b",
+						"Javascript Beautify"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"comm",
+						"Toggle Block Comment"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insd",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 475.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/jfons/Projects/Ramaderia/.gitignore",
+				"/home/jfons/bin/Sencha/Cmd/6.0.1.76/sencha.jar!/com/sencha/ant/antlib.xml",
+				"/home/jfons/Projects/PixiTest/main.js",
+				"/home/jfons/Projects/PixiTest/index.html",
+				"/home/jfons/Projects/PixiTest/interface.js",
+				"/home/jfons/Downloads/Bicing.zip",
+				"/home/jfons/Projects/PixiTest/functions.js",
+				"/run/user/1000/gvfs/dav:host=raco.fib.upc.edu,ssl=true,prefix=%2Fdavenport%2Fdisc%2Fdades/joan.fons.sanchez/A/select.cpp",
+				"/media/jfons/5C3D-C967/Joan/electret1/electret1.ino",
+				"/media/jfons/5C3D-C967/Joan/confi_auto_1/llegiume.txt",
+				"/home/jfons/Projects/BuildData/info.json",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/style.css",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/footer.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/functions.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/header.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/image.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-testimonial.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-single.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-page.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-menu.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/comments.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/archive.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/archive-jetpack-testimonial.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/404.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/no-results.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/inc/tweaks.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/inc/template-tags.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/inc/plugin-enhancements.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/searchform.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/search.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/page-menu.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/sidebar.php",
+				"/opt/lampp/htdocs/phaser/game.js",
+				"/home/jfons/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/tmp/.fr-0yjVIl/SFML-2.3.1/share/SFML/readme.txt",
+				"/tmp/.fr-QEVftx/GameTemplate.gproj",
+				"/tmp/.fr-OYMWrS/NEAT.1.2.1/LICENSE",
+				"/tmp/.fr-jHGqWN/NEAT.1.2.1/LICENSE",
+				"/opt/lampp/htdocs/portalgse/themes/PureTheme/templates/includes/header.tpl",
+				"/tmp/python.py",
+				"/tmp/.fr-Oyvgg0/terminus-font-4.39/INSTALL",
+				"/home/jfons/.i3/paleta",
+				"/home/jfons/Downloads/Procesar_unal.s",
+				"/home/jfons/.i3/config",
+				"/home/jfons/Downloads/Procesar_asm.s",
+				"/tmp/.fr-q8gPxs/terminus-font-4.39/README",
+				"/home/jfons/.config/compton.conf",
+				"/home/jfons/.i3/compton.conf",
+				"/tmp/.fr-3QLgd0/FlatStudioLight/leeme.txt",
+				"/home/jfons/.conkyrc",
+				"/home/jfons/Downloads/E3_2Q_2015_-_4_Finanzas(1).pptx",
+				"/home/jfons/Downloads/PEC5_FIN_v3.docx",
+				"/home/jfons/FIB/PROP/prop/tests/plantilla_infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/ReproductionTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/SongGraphTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/GraphTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/SongTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/abrahamReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/ainaReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/fooReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/jfonsReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/victorReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/tests/EdgeTest/infoTest.txt",
+				"/home/jfons/Projects/PROP/data/solutions/solution_test/info.txt",
+				"/home/jfons/FIB/PROP/prop/tests/repros1.txt",
+				"/home/jfons/Projects/PROP/entrega/EXE/Song/data/reproductions/abrahamReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/tests/meanAge_users.txt",
+				"/home/jfons/FIB/PROP/prop/tests/users2.txt",
+				"/home/jfons/Projects/PROP/data/songs/songs.txt",
+				"/home/jfons/Projects/PROP/data/solutions/solution_test/comunitats.txt",
+				"/home/jfons/FIB/PROP/prop/tests/songs.txt",
+				"/home/jfons/Projects/PROP/test12345",
+				"/home/jfons/Projects/PROP/provandou.txt",
+				"/home/jfons/Projects/PROP/data/solutions/solution_test/entrada.txt",
+				"/home/jfons/Projects/RealEngine/src/FileLoader.cpp",
+				"/home/jfons/VirtualBox VMs/Debian/Logs/VBox.log",
+				"/home/jfons/Projects/PROP/data/solutions/solution_id1/entrada.txt",
+				"/home/jfons/Projects/PROP/data/solutions/solution_id1/comunitats.txt",
+				"/home/jfons/Projects/RealEngine/makefile",
+				"/home/jfons/Projects/PROP/data/solutions/solution_id1/info.txt",
+				"/home/jfons/Projects/PROP/data/solutions/solution_02-05-2015 15,30,34,466/communitiesSolution.txt",
+				"/home/jfons/Projects/GameBoy/HelloWorld/inc/ibmpc1.inc",
+				"/home/jfons/.cache/.fr-yOgmad/APA.ASM",
+				"/home/jfons/.cache/.fr-byxU7d/README.TXT",
+				"/home/jfons/Projects/GameBoy/ibmpc.inc",
+				"/home/jfons/Projects/OpenGL-Edge-Depth-Detection/finalVShader",
+				"/home/jfons/Projects/OpenGL-Edge-Depth-Detection/finalFShader",
+				"/home/jfons/Downloads/prop",
+				"/home/jfons/Projects/GameBoy/HelloWorld/assemble.sh",
+				"/home/jfons/Projects/GameBoy/gbhw.inc",
+				"/home/jfons/temp/gba/IBMPC1.TXT",
+				"/home/jfons/temp/gba/EXAMPLE1.TXT",
+				"/home/jfons/Projects/GameBoy/HelloWorld/makelnk.sh",
+				"/home/jfons/Projects/GameBoy/HelloWorld/assemble.bat",
+				"/home/jfons/Projects/GameBoy/memory.asm",
+				"/home/jfons/Projects/GameBoy/hello.asm",
+				"/home/jfons/Projects/GameBoy/HelloWorld/obj/map",
+				"/home/jfons/Projects/GameBoy/HelloWorld/obj/hello-world.obj",
+				"/home/jfons/temp/gba/CHANGES.TXT",
+				"/home/jfons/.cache/.fr-rXIRfH/MEMORY.TXT",
+				"/home/jfons/.cache/.fr-rE4Ldk/Readme.md",
+				"/home/jfons/Projects/OpenGL-Edge-Depth-Detection/finalFShader~",
+				"/home/jfons/Projects/OpenGL-Edge-Depth-Detection/fshader",
+				"/opt/lampp/etc/php.ini",
+				"/opt/lampp/htdocs/loudspeaker-api/web/index2.php",
+				"/opt/lampp/htdocs/loudspeaker-api/web/index.php",
+				"/home/jfons/Projects/python-getting-started/gettingstarted/static/testingJSON",
+				"/home/jfons/Projects/python-getting-started/hello/admin.py",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/encodings/johab.py",
+				"/home/jfons/Projects/python-getting-started/hello/templates/ajax.html",
+				"/home/jfons/Projects/python-getting-started/hello/views.py",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/site-packages/pip/_vendor/html5lib/html5parser.py",
+				"/home/jfons/Projects/python-getting-started/gettingstarted/static/humans.txt",
+				"/home/jfons/Projects/python-getting-started/hello/models.py",
+				"/home/jfons/Projects/python-getting-started/hello/templates/db.html",
+				"/home/jfons/Projects/python-getting-started/README.md",
+				"/home/jfons/Projects/python-getting-started/manage.py",
+				"/home/jfons/Projects/python-getting-started/.env",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/site-packages/setuptools/tests/environment.py",
+				"/home/jfons/Projects/python-getting-started/venv/include/python2.7/enumobject.h",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/encodings/big5.py",
+				"/home/jfons/Projects/python-getting-started/venv/bin/easy_install",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/site-packages/pip/_vendor/retrying.py",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/site-packages/pip/_vendor/requests/exceptions.py",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/site-packages/pip/req/req_set.py",
+				"/home/jfons/Projects/python-getting-started/venv/lib/python2.7/encodings/mac_greek.py",
+				"/home/jfons/Projects/python-getting-started/venv/include/python2.7/graminit.h"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"*.php",
+					"",
+					"/home/jfons/Projects/Cheezy/src",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"bIdx",
+					"f",
+					"v1",
+					"n",
+					"m",
+					"B",
+					"A",
+					"B",
+					"A",
+					"m",
+					",",
+					"result",
+					"bunny",
+					"data",
+					"bunny",
+					"apmlification",
+					"result",
+					"4",
+					"3",
+					"#seco",
+					"widget-ar",
+					"-webkit-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.10);\n	-moz-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.10);\n	box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.10);",
+					"moz-box",
+					"webkit-box",
+					"shado",
+					"wrapp",
+					"page-he",
+					"::",
+					"rgb(245",
+					"rgba(245",
+					"rgba",
+					"border-left:",
+					"background-color: rgb(245,245,245);",
+					"::before",
+					"border-le",
+					"site-conte",
+					"'confit'",
+					"Confit",
+					"infinite-fo",
+					"wrapp",
+					"medi",
+					"wrap",
+					"log",
+					"myMask",
+					"console",
+					"oint.",
+					"enter.",
+					"clone",
+					"fisrtPoint",
+					"break",
+					";",
+					"local function",
+					"cursor",
+					"cursor: pointer;",
+					" Wird für Boostrap benötigt ",
+					"dic",
+					"28536C",
+					"new_w",
+					"#c80000",
+					"REPLACE",
+					"[CLASSE]",
+					"g++",
+					".o",
+					"simple",
+					"clear",
+					"hello",
+					"lcd_WaitVRAM",
+					"luigi",
+					"*/)",
+					"openjdk",
+					"jfons_ant",
+					"pg",
+					"loudspeaker_user",
+					"loudspeaker_message",
+					"csrf",
+					"csfr",
+					"3",
+					"2",
+					"    ",
+					"',    '",
+					"    ",
+					"DATAB",
+					"settings",
+					"body",
+					"html",
+					"self.player",
+					"q",
+					"width",
+					"print",
+					"love.graphics.getWidth()",
+					"love.graphics.getHeight()",
+					"float",
+					"0.1",
+					"0",
+					"else",
+					"(k == ",
+					"p.",
+					"self.player.",
+					"self.r1.",
+					"self.r2",
+					"slef",
+					"Vector",
+					"1",
+					"Math",
+					"center",
+					"point",
+					"1",
+					"r",
+					"Vector",
+					"59",
+					"null",
+					";",
+					"var",
+					"printf",
+					"p1.x",
+					"deltaX",
+					"maxX",
+					":Number",
+					"var",
+					":int",
+					"Number",
+					"Intro",
+					"getTransform",
+					"Transform",
+					"virtual",
+					"c",
+					"startPos",
+					"/"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"circle",
+					"'jfons'",
+					"JFonS",
+					"6F8FA3",
+					"#5aaa9a",
+					"SongGraph",
+					"Reproduction",
+					"Song",
+					"REPLACE",
+					"users",
+					"messages",
+					"love.keyboard.isDown(",
+					"print",
+					"Maze",
+					"_c",
+					"_C",
+					"select",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 392.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sketchbook":
+			{
+				"height": 112.0
+			},
+			"output.stino_log":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "Packages/User/Love2D.sublime-build",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"app",
+						"resources/sass/app.scss"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"app.j",
+						"app.json"
+					],
+					[
+						"mai",
+						"app/view/Main.js"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"fun",
+						"functions.js"
+					],
+					[
+						"main",
+						"main.js"
+					],
+					[
+						"sty",
+						"style.css"
+					],
+					[
+						"fu",
+						"functions.js"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"ut",
+						"utils.js"
+					],
+					[
+						"ma",
+						"main.js"
+					],
+					[
+						"",
+						"index.html"
+					],
+					[
+						"i",
+						"server/index.js"
+					],
+					[
+						"just",
+						"modules/PfqGse/templates/user/justificacio.tpl"
+					],
+					[
+						"make",
+						"makefile"
+					],
+					[
+						"file",
+						"src/FileLoader.cpp"
+					],
+					[
+						"ad",
+						"loudspeaker/admin.py"
+					],
+					[
+						"json",
+						"gettingstarted/static/testingJSON"
+					],
+					[
+						"vie",
+						"hello/views.py"
+					],
+					[
+						"html",
+						"hello/templates/messages_json.html"
+					],
+					[
+						"req",
+						"requirements.txt"
+					],
+					[
+						"mode",
+						"hello/models.py"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"set",
+						"gettingstarted/settings.py"
+					],
+					[
+						"db.h",
+						"hello/templates/db.html"
+					],
+					[
+						"view",
+						"hello/views.py"
+					],
+					[
+						"ur",
+						"gettingstarted/urls.py"
+					],
+					[
+						"games",
+						"src/util/gamestate.lua"
+					],
+					[
+						"uti",
+						"src/util/helper.lua"
+					],
+					[
+						"1",
+						"src/levels/1.lua"
+					],
+					[
+						"utilh",
+						"src/util/helper.lua"
+					],
+					[
+						"gam",
+						"src/util/gamestate.lua"
+					],
+					[
+						"intr",
+						"src/states/intro.lua"
+					],
+					[
+						"vect",
+						"src/util/vector.lua"
+					],
+					[
+						"maz",
+						"src/states/maze.lua"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"game",
+						"src/util/gamestate.lua"
+					],
+					[
+						"re",
+						"README.md"
+					],
+					[
+						"int",
+						"src/intro.lua"
+					],
+					[
+						"co",
+						"src/conf.lua"
+					],
+					[
+						"mak",
+						"Makefile"
+					],
+					[
+						"conf",
+						"src/conf.lua"
+					],
+					[
+						"service",
+						"lib/Zikula/ServiceManager.php"
+					],
+					[
+						"confi",
+						"config.php"
+					],
+					[
+						"sce",
+						"src/Scene.cpp"
+					],
+					[
+						"peve",
+						"src/PEvent.cpp"
+					],
+					[
+						"pev",
+						"include/PEvent.hpp"
+					],
+					[
+						"gm",
+						"src/GameObject.cpp"
+					],
+					[
+						"scene",
+						"include/Scene.hpp"
+					],
+					[
+						"ptex",
+						"include/PText.hpp"
+					],
+					[
+						"pt",
+						"src/PText.cpp"
+					],
+					[
+						"pee",
+						"src/PeezyWin.cpp"
+					],
+					[
+						"node",
+						"include/Node.hpp"
+					],
+					[
+						"y",
+						".ycm_extra_conf.py"
+					],
+					[
+						"win",
+						"src/CheezyWin.cpp"
+					],
+					[
+						"fi",
+						"src/FileReader.cpp"
+					],
+					[
+						"im",
+						"src/Image.cpp"
+					],
+					[
+						"debug.",
+						"src/Debug.cpp"
+					],
+					[
+						"debu",
+						"include/Debug.h"
+					],
+					[
+						"mes",
+						"src/Mesh.cpp"
+					],
+					[
+						"ima",
+						"include/Image.h"
+					],
+					[
+						"texr",
+						"include/Texture.h"
+					],
+					[
+						"debh",
+						"include/Debug.h"
+					],
+					[
+						"debug",
+						"src/Debug.cpp"
+					],
+					[
+						"image",
+						"src/Image.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"getNv",
+						"getNav"
+					],
+					[
+						"sto",
+						"storeName"
+					],
+					[
+						"my",
+						"myRecord"
+					],
+					[
+						"myM",
+						"myModelClass"
+					],
+					[
+						"password",
+						"passwordfield"
+					],
+					[
+						"kern",
+						"kernelCanvas"
+					],
+					[
+						"add",
+						"addChild"
+					],
+					[
+						"border-",
+						"border-radius"
+					],
+					[
+						"kernel",
+						"kernel180"
+					],
+					[
+						"dis",
+						"distance_on_earth"
+					],
+					[
+						"o",
+						"objects"
+					],
+					[
+						"req",
+						"request"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"dr",
+						"drawWidth"
+					],
+					[
+						"lin",
+						"lineHeight"
+					],
+					[
+						"g",
+						"getIntersection"
+					],
+					[
+						"y",
+						"y"
+					],
+					[
+						"clo",
+						"closestIntersect"
+					],
+					[
+						"in",
+						"intersec"
+					],
+					[
+						"getI",
+						"getTile"
+					],
+					[
+						"gr",
+						"love.graphics"
+					],
+					[
+						"coll",
+						"collisionPoint"
+					],
+					[
+						"tes",
+						"testY"
+					],
+					[
+						"f",
+						"function	function"
+					],
+					[
+						"pi",
+						"point2"
+					],
+					[
+						"get",
+						"getNodeTransform"
+					],
+					[
+						"se",
+						"setRotation"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"st",
+						"startPos"
+					],
+					[
+						"im",
+						"imageRegion"
+					],
+					[
+						"sele",
+						"select"
+					],
+					[
+						"cell",
+						"cellSize"
+					],
+					[
+						"Vect",
+						"Vector2f"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"win",
+						"windowImg"
+					],
+					[
+						"dig",
+						"digitalWrite	Arduino digitalWrite"
+					],
+					[
+						"di",
+						"digitalWrite	Arduino digitalWrite"
+					],
+					[
+						"fi",
+						"fileStream"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/jfons/Projects/Agriser/app.js",
+					"settings":
+					{
+						"buffer_size": 2512,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/view/Main.js",
+					"settings":
+					{
+						"buffer_size": 566,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/resources/sass/app.scss",
+					"settings":
+					{
+						"buffer_size": 519,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/view/AddTractament.js",
+					"settings":
+					{
+						"buffer_size": 1365,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/picker/SearchList.js",
+					"settings":
+					{
+						"buffer_size": 2999,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/.i3/.sandbox-i3/compton.conf",
+					"settings":
+					{
+						"buffer_size": 588,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/field/ListPicker.js",
+					"settings":
+					{
+						"buffer_size": 4793,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/picker/List.js",
+					"settings":
+					{
+						"buffer_size": 1812,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/picker/AddList.js",
+					"settings":
+					{
+						"buffer_size": 1977,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/jfons/Projects/Agriser/app/controller/MainNavigation.js",
+					"settings":
+					{
+						"buffer_size": 864,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/Love2D.sublime-build",
+							""
+						],
+						[
+							"Packages/User/Love2D.sublime-build",
+							"Love2D"
+						],
+						[
+							"Packages/User/Love2D.sublime-build",
+							"ldoc: File"
+						],
+						[
+							"Packages/User/Love2D.sublime-build",
+							"ldoc: Project"
+						]
+					],
+					[
+						"Packages/User/Love2D.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 179.0,
+				"last_filter": "wrap",
+				"selected_items":
+				[
+					[
+						"wrap",
+						"Word Wrap: Toggle"
+					],
+					[
+						"beau",
+						"Javascript Beautify"
+					],
+					[
+						"prv",
+						"PackageResourceViewer: Extract Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"bea",
+						"Javascript Beautify"
+					],
+					[
+						"be",
+						"Javascript Beautify"
+					],
+					[
+						"b",
+						"Javascript Beautify"
+					],
+					[
+						"inde",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"java",
+						"Set Syntax: JavaScript"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"comm",
+						"Toggle Block Comment"
+					],
+					[
+						"ind",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"snipp",
+						"Snippet: html"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insd",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"rei",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 457.0
+			},
+			"console":
+			{
+				"height": 139.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/jfons/Projects/Agriser",
+				"/home/jfons/Projects/Agriser/app",
+				"/home/jfons/Projects/Agriser/app/form"
+			],
+			"file_history":
+			[
+				"/home/jfons/Projects/Agriser/app/view/ListSelection.js",
+				"/home/jfons/Projects/Agriser/app/field/ListAddPicker",
+				"/home/jfons/FIB/IA/op1.txt",
+				"/home/jfons/Projects/Bicing/RADME.txt",
+				"/home/jfons/Projects/Agriser/app/field/ListPicker.js",
+				"/home/jfons/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/jfons/.config/sublime-text-3/Packages/Theme - amCoder/amCoder.sublime-theme",
+				"/home/jfons/.config/sublime-text-3/Installed Packages/amCoder.sublime-theme",
+				"/home/jfons/.config/sublime-text-3/Packages/Theme - amCoder/amCoder.tmTheme",
+				"/home/jfons/Projects/Agriser/app.js",
+				"/home/jfons/Projects/Agriser/app/view/AddTractament.js",
+				"/home/jfons/Projects/Agriser/app/store/Afectacions.js",
+				"/home/jfons/Projects/Agriser/touch/src/picker/Picker.js",
+				"/home/jfons/Projects/Agriser/touch/src/field/DatePicker.js",
+				"/home/jfons/Projects/Agriser/app/model/Afectacio.js",
+				"/home/jfons/Projects/Agriser/app/picker/List.js",
+				"/home/jfons/Projects/Agriser/app/controller/MainNavigation.js",
+				"/home/jfons/Projects/Agriser/app/view/listadders/AddAfectacio.js",
+				"/home/jfons/Projects/Agriser/app/view/listadders/Base.js",
+				"/home/jfons/Projects/Agriser/app/view/Navigation.js",
+				"/home/jfons/Projects/Agriser/app/picker/Abstract.js",
+				"/home/jfons/FIB/LP/karel/karel.g",
+				"/home/jfons/Projects/Agriser/app/field/Picker.js",
+				"/home/jfons/Projects/Agriser/app/picker/Date.js",
+				"/home/jfons/Projects/Agriser/cordova/config.xml",
+				"/home/jfons/Projects/Agriser/app/view/Base.js",
+				"/home/jfons/Projects/Agriser/app/view/list-adders/AddAfectacio.js",
+				"/home/jfons/Projects/Agriser/app/view/AddAfectacio.js",
+				"/home/jfons/Projects/Agriser/app/field/DatePicker.js",
+				"/home/jfons/Projects/Agriser/touch/src/picker/Date.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/field/ListPicker.js",
+				"/home/jfons/Projects/Agriser/app/picker/Slotted.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/field/Picker.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/picker/Slotted.js",
+				"/home/jfons/Projects/Agriser/app/view/ModelSelector.js",
+				"/home/jfons/Projects/Agriser/app/field/ModelPicker.js",
+				"/home/jfons/Projects/Agriser/app/controller/ModelSelectorController.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/picker/List.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/picker/Date.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/picker/Abstract.js",
+				"/home/jfons/Projects/Agriser/app/view/jarvus/field/DatePicker.js",
+				"/home/jfons/Projects/Agriser/index.html",
+				"/home/jfons/Projects/Agriser/app/model/Tractament.js",
+				"/home/jfons/Projects/Agriser/app/controller/Main.js",
+				"/home/jfons/.config/sublime-text-3/Packages/User/log.sublime-snippet",
+				"/home/jfons/Projects/Agriser/app/model/Medicament.js",
+				"/home/jfons/Projects/Agriser/app/model/Especie.js",
+				"/home/jfons/Projects/Agriser/app/model/Baixa.js",
+				"/home/jfons/Projects/Agriser/app/model/Producte.js",
+				"/home/jfons/Projects/Agriser/app/model/Recepta.js",
+				"/home/jfons/Projects/Agriser/app/model/Animal.js",
+				"/home/jfons/Projects/Agriser/app/model/Explotacio.js",
+				"/home/jfons/Projects/Agriser/app/model/Usuari.js",
+				"/home/jfons/Projects/Agriser/app/view/Main.js",
+				"/home/jfons/Projects/Agriser/.gitignore",
+				"/home/jfons/Projects/Agriser/app.json",
+				"/home/jfons/Projects/Agriser/sass/example/bootstrap.js",
+				"/home/jfons/Projects/Agriser/cordova/www/app.js",
+				"/home/jfons/Projects/Agriser/cordova/platforms/android/build/intermediates/assets/debug/www/app.js",
+				"/home/jfons/Projects/Agriser/bootstrap.js",
+				"/home/jfons/Projects/Agriser/cordova/platforms/android/assets/www/app.js",
+				"/home/jfons/Projects/Ramaderia/.gitignore",
+				"/home/jfons/bin/Sencha/Cmd/6.0.1.76/sencha.jar!/com/sencha/ant/antlib.xml",
+				"/home/jfons/Projects/PixiTest/main.js",
+				"/home/jfons/Projects/PixiTest/index.html",
+				"/home/jfons/Projects/PixiTest/interface.js",
+				"/home/jfons/Downloads/Bicing.zip",
+				"/home/jfons/Projects/PixiTest/functions.js",
+				"/run/user/1000/gvfs/dav:host=raco.fib.upc.edu,ssl=true,prefix=%2Fdavenport%2Fdisc%2Fdades/joan.fons.sanchez/A/select.cpp",
+				"/media/jfons/5C3D-C967/Joan/electret1/electret1.ino",
+				"/media/jfons/5C3D-C967/Joan/confi_auto_1/llegiume.txt",
+				"/home/jfons/Projects/BuildData/info.json",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/style.css",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/footer.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/functions.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/header.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/image.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-testimonial.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-single.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-page.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/content-menu.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/comments.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/archive.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/archive-jetpack-testimonial.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/404.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/no-results.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/inc/tweaks.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/inc/template-tags.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/inc/plugin-enhancements.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/searchform.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/search.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/page-menu.php",
+				"/run/user/1000/gvfs/ftp:host=francais-activites.cf,user=joan.francais-activites/home/francais-activites/public_html/wp-content/themes/jfons/sidebar.php",
+				"/opt/lampp/htdocs/phaser/game.js",
+				"/tmp/.fr-0yjVIl/SFML-2.3.1/share/SFML/readme.txt",
+				"/tmp/.fr-QEVftx/GameTemplate.gproj",
+				"/tmp/.fr-OYMWrS/NEAT.1.2.1/LICENSE",
+				"/tmp/.fr-jHGqWN/NEAT.1.2.1/LICENSE",
+				"/opt/lampp/htdocs/portalgse/themes/PureTheme/templates/includes/header.tpl",
+				"/tmp/python.py",
+				"/tmp/.fr-Oyvgg0/terminus-font-4.39/INSTALL",
+				"/home/jfons/.i3/paleta",
+				"/home/jfons/Downloads/Procesar_unal.s",
+				"/home/jfons/.i3/config",
+				"/home/jfons/Downloads/Procesar_asm.s",
+				"/tmp/.fr-q8gPxs/terminus-font-4.39/README",
+				"/home/jfons/.config/compton.conf",
+				"/home/jfons/.i3/compton.conf",
+				"/tmp/.fr-3QLgd0/FlatStudioLight/leeme.txt",
+				"/home/jfons/.conkyrc",
+				"/home/jfons/Downloads/E3_2Q_2015_-_4_Finanzas(1).pptx",
+				"/home/jfons/Downloads/PEC5_FIN_v3.docx",
+				"/home/jfons/FIB/PROP/prop/tests/plantilla_infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/ReproductionTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/SongGraphTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/GraphTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/tests/SongTest/infoTest.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/abrahamReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/ainaReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/fooReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/jfonsReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/entrega/EXE/Song/data/reproductions/victorReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/tests/EdgeTest/infoTest.txt",
+				"/home/jfons/Projects/PROP/data/solutions/solution_test/info.txt",
+				"/home/jfons/FIB/PROP/prop/tests/repros1.txt",
+				"/home/jfons/Projects/PROP/entrega/EXE/Song/data/reproductions/abrahamReproductions.txt",
+				"/home/jfons/FIB/PROP/prop/tests/meanAge_users.txt"
+			],
+			"find":
+			{
+				"height": 38.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"",
+					"*.php",
+					"",
+					"/home/jfons/Projects/Cheezy/src",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"Jarvus",
+					"[36, 36, 36]",
+					"btnBaixesTap",
+					"\",\n",
+					"this",
+					"onMaskTap: function() {\n    		 m",
+					"onMask",
+					"HOLA",
+					"Cance",
+					"hide",
+					"show",
+					"Clear",
+					"disab",
+					"getDisplayField",
+					"Jarvus.",
+					"    ,",
+					"applyValue",
+					"modelNamer",
+					"proveidor",
+					"Ramaderia",
+					"bIdx",
+					"f",
+					"v1",
+					"n",
+					"m",
+					"B",
+					"A",
+					"B",
+					"A",
+					"m",
+					",",
+					"result",
+					"bunny",
+					"data",
+					"bunny",
+					"apmlification",
+					"result",
+					"4",
+					"3",
+					"#seco",
+					"widget-ar",
+					"-webkit-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.10);\n	-moz-box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.10);\n	box-shadow: 3px 3px 3px 0px rgba(0,0,0,0.10);",
+					"moz-box",
+					"webkit-box",
+					"shado",
+					"wrapp",
+					"page-he",
+					"::",
+					"rgb(245",
+					"rgba(245",
+					"rgba",
+					"border-left:",
+					"background-color: rgb(245,245,245);",
+					"::before",
+					"border-le",
+					"site-conte",
+					"'confit'",
+					"Confit",
+					"infinite-fo",
+					"wrapp",
+					"medi",
+					"wrap",
+					"log",
+					"myMask",
+					"console",
+					"oint.",
+					"enter.",
+					"clone",
+					"fisrtPoint",
+					"break",
+					";",
+					"local function",
+					"cursor",
+					"cursor: pointer;",
+					" Wird für Boostrap benötigt ",
+					"dic",
+					"28536C",
+					"new_w",
+					"#c80000",
+					"REPLACE",
+					"[CLASSE]",
+					"g++",
+					".o",
+					"simple",
+					"clear",
+					"hello",
+					"lcd_WaitVRAM",
+					"luigi",
+					"*/)",
+					"openjdk",
+					"jfons_ant",
+					"pg",
+					"loudspeaker_user",
+					"loudspeaker_message",
+					"csrf",
+					"csfr",
+					"3",
+					"2",
+					"    ",
+					"',    '",
+					"    ",
+					"DATAB",
+					"settings",
+					"body",
+					"html",
+					"self.player",
+					"q",
+					"width",
+					"print",
+					"love.graphics.getWidth()",
+					"love.graphics.getHeight()",
+					"float",
+					"0.1",
+					"0",
+					"else",
+					"(k == ",
+					"p.",
+					"self.player.",
+					"self.r1.",
+					"self.r2",
+					"slef",
+					"Vector",
+					"1",
+					"Math",
+					"center",
+					"point",
+					"1",
+					"r"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"Agriser",
+					"[48, 48, 48]",
+					"Agriser.",
+					",",
+					"Agriser",
+					"circle",
+					"'jfons'",
+					"JFonS",
+					"6F8FA3",
+					"#5aaa9a",
+					"SongGraph",
+					"Reproduction",
+					"Song",
+					"REPLACE",
+					"users",
+					"messages",
+					"love.keyboard.isDown(",
+					"print",
+					"Maze",
+					"_c",
+					"_C",
+					"select",
+					""
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/jfons/Projects/Agriser"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 5,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/jfons/Projects/Agriser/app.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2512,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										815,
+										815
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Theme - amCoder/amCoder.tmTheme",
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 54.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/jfons/Projects/Agriser/app/view/Main.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 566,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										556,
+										556
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Theme - amCoder/amCoder.tmTheme",
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/jfons/Projects/Agriser/resources/sass/app.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 519,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/jfons/Projects/Agriser/app/view/AddTractament.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1365,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 118.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/jfons/Projects/Agriser/app/picker/SearchList.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2999,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1912,
+										1912
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 216.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/jfons/.i3/.sandbox-i3/compton.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 588,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/home/jfons/Projects/Agriser/app/field/ListPicker.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4793,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/home/jfons/Projects/Agriser/app/picker/List.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1812,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 108.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/home/jfons/Projects/Agriser/app/picker/AddList.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1977,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/home/jfons/Projects/Agriser/app/controller/MainNavigation.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 864,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/Theme - amCoder/amCoder.tmTheme",
+									"glslvalidator_configured": true,
+									"glslvalidator_enabled": 1,
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 392.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sketchbook":
+			{
+				"height": 112.0
+			},
+			"output.stino_log":
+			{
+				"height": 112.0
+			},
+			"pinned_build_system": "Packages/User/Love2D.sublime-build",
+			"position": "0,0,0,0,0,1290,40,1894,1054,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 72.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sea",
+						"app/picker/SearchList.js"
+					],
+					[
+						"list",
+						"app/picker/List.js"
+					],
+					[
+						"listpicker",
+						"app/field/ListPicker.js"
+					],
+					[
+						"add",
+						"app/view/AddTractament.js"
+					],
+					[
+						"app",
+						"resources/sass/app.scss"
+					],
+					[
+						"main",
+						"app/controller/MainNavigation.js"
+					],
+					[
+						"mai",
+						"app/view/Main.js"
+					],
+					[
+						"ap",
+						"app.js"
+					],
+					[
+						"nav",
+						"app/view/Navigation.js"
+					],
+					[
+						"afecta",
+						"app/store/Afectacions.js"
+					],
+					[
+						"bas",
+						"app/view/listadders/Base.js"
+					],
+					[
+						"base",
+						"app/view/Base.js"
+					],
+					[
+						"ad",
+						"app/view/list-adders/AddAfectacio.js"
+					],
+					[
+						"mainn",
+						"app/controller/MainNavigation.js"
+					],
+					[
+						"pick",
+						"touch/src/picker/Picker.js"
+					],
+					[
+						"picker",
+						"touch/src/picker/Picker.js"
+					],
+					[
+						"datepick",
+						"touch/src/field/DatePicker.js"
+					],
+					[
+						"date",
+						"app/picker/Date.js"
+					],
+					[
+						"date.js",
+						"app/picker/Date.js"
+					],
+					[
+						"config",
+						"cordova/config.xml"
+					],
+					[
+						"abst",
+						"app/picker/Abstract.js"
+					],
+					[
+						"afect",
+						"app/model/Afectacio.js"
+					],
+					[
+						"abstra",
+						"app/picker/Abstract.js"
+					],
+					[
+						"addt",
+						"app/view/AddTractament.js"
+					],
+					[
+						"listp",
+						"app/view/jarvus/field/ListPicker.js"
+					],
+					[
+						"ma",
+						"app/controller/MainNavigation.js"
+					],
+					[
+						"mod",
+						"app/controller/ModelSelectorController.js"
+					],
+					[
+						"ind",
+						"index.html"
+					],
+					[
+						"naviga",
+						"app/view/Navigation.js"
+					],
+					[
+						"med",
+						"app/model/Medicament.js"
+					],
+					[
+						"afe",
+						"app/model/Afectacio.js"
+					],
+					[
+						"tra",
+						"app/model/Tractament.js"
+					],
+					[
+						"na",
+						"app/view/Navigation.js"
+					],
+					[
+						"app.j",
+						"app.js"
+					],
+					[
+						"mia",
+						"app/controller/Main.js"
+					],
+					[
+						"",
+						".gitignore"
+					],
+					[
+						"inde",
+						"index.html"
+					],
+					[
+						"giti",
+						".gitignore"
+					],
+					[
+						"fun",
+						"functions.js"
+					],
+					[
+						"sty",
+						"style.css"
+					],
+					[
+						"fu",
+						"functions.js"
+					],
+					[
+						"in",
+						"index.html"
+					],
+					[
+						"ut",
+						"utils.js"
+					],
+					[
+						"i",
+						"server/index.js"
+					],
+					[
+						"just",
+						"modules/PfqGse/templates/user/justificacio.tpl"
+					],
+					[
+						"make",
+						"makefile"
+					],
+					[
+						"file",
+						"src/FileLoader.cpp"
+					],
+					[
+						"json",
+						"gettingstarted/static/testingJSON"
+					],
+					[
+						"vie",
+						"hello/views.py"
+					],
+					[
+						"html",
+						"hello/templates/messages_json.html"
+					],
+					[
+						"req",
+						"requirements.txt"
+					],
+					[
+						"mode",
+						"hello/models.py"
+					],
+					[
+						"env",
+						".env"
+					],
+					[
+						"set",
+						"gettingstarted/settings.py"
+					],
+					[
+						"db.h",
+						"hello/templates/db.html"
+					],
+					[
+						"view",
+						"hello/views.py"
+					],
+					[
+						"ur",
+						"gettingstarted/urls.py"
+					],
+					[
+						"games",
+						"src/util/gamestate.lua"
+					],
+					[
+						"uti",
+						"src/util/helper.lua"
+					],
+					[
+						"1",
+						"src/levels/1.lua"
+					],
+					[
+						"utilh",
+						"src/util/helper.lua"
+					],
+					[
+						"gam",
+						"src/util/gamestate.lua"
+					],
+					[
+						"intr",
+						"src/states/intro.lua"
+					],
+					[
+						"vect",
+						"src/util/vector.lua"
+					],
+					[
+						"maz",
+						"src/states/maze.lua"
+					],
+					[
+						"rea",
+						"README.md"
+					],
+					[
+						"game",
+						"src/util/gamestate.lua"
+					],
+					[
+						"re",
+						"README.md"
+					],
+					[
+						"int",
+						"src/intro.lua"
+					],
+					[
+						"co",
+						"src/conf.lua"
+					],
+					[
+						"mak",
+						"Makefile"
+					],
+					[
+						"conf",
+						"src/conf.lua"
+					],
+					[
+						"service",
+						"lib/Zikula/ServiceManager.php"
+					],
+					[
+						"confi",
+						"config.php"
+					],
+					[
+						"sce",
+						"src/Scene.cpp"
+					],
+					[
+						"peve",
+						"src/PEvent.cpp"
+					],
+					[
+						"pev",
+						"include/PEvent.hpp"
+					],
+					[
+						"gm",
+						"src/GameObject.cpp"
+					],
+					[
+						"scene",
+						"include/Scene.hpp"
+					],
+					[
+						"ptex",
+						"include/PText.hpp"
+					],
+					[
+						"pt",
+						"src/PText.cpp"
+					],
+					[
+						"pee",
+						"src/PeezyWin.cpp"
+					],
+					[
+						"node",
+						"include/Node.hpp"
+					],
+					[
+						"y",
+						".ycm_extra_conf.py"
+					],
+					[
+						"win",
+						"src/CheezyWin.cpp"
+					],
+					[
+						"fi",
+						"src/FileReader.cpp"
+					],
+					[
+						"im",
+						"src/Image.cpp"
+					],
+					[
+						"debug.",
+						"src/Debug.cpp"
+					],
+					[
+						"debu",
+						"include/Debug.h"
+					],
+					[
+						"mes",
+						"src/Mesh.cpp"
+					],
+					[
+						"ima",
+						"include/Image.h"
+					],
+					[
+						"texr",
+						"include/Texture.h"
+					],
+					[
+						"debh",
+						"include/Debug.h"
+					],
+					[
+						"debug",
+						"src/Debug.cpp"
+					],
+					[
+						"image",
+						"src/Image.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 261.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 29,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/tmp/.fr-KH3Fnt/GameTemplate/pixel-maze.sublime-workspace",
+			"/home/jfons/Projects/Jungle-Law/jungle-law.sublime-workspace"
+		]
+	}
+}

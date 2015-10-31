@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" manifest="generateManifest.php">
+<head>
+
+    <title>Grooveshark - Free Music Streaming, Online Music</title>
+    <meta name="title" content="Grooveshark" />
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=11,IE=10,IE=9,IE=8,chrome=IE8" />
+    <meta name="description" property="og:description" content="Grooveshark is free music, online radio, and so much more.  Enjoy unlimited free music streaming with a worldwide community of artists and music lovers." />
+    <meta name="keywords" content="radio, free music, free songs, music, musica, free mp3, online radio, music songs, internet radio, music videos" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui=1" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#393f4f" />
+
+    <link rel="search" type="application/opensearchdescription+xml" href="/litesearch.xml" title="Grooveshark" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" href="/webincludes/images/favicon64.ico" sizes="64x64 32x32 24x24 16x16" />
+    <meta property="twitter:account_id" content="14611300" />
+    <meta property="twitter:account_id" content="1512925075" />
+
+    
+    <style type="text/css" id="loadingCSS">
+        html{display:block;font-size:100%;font-weight:400;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body{margin:0;font-family:'Open Sans',Helvetica,Arial,sans-serif;font-size:12px;line-height:20px;color:#727a8e;position:relative;padding:0;overflow:auto;overflow-y:scroll;background:#dddfe4;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}
+#container{min-height:95px;padding:0 0 0 270px;background:#dddfe4}
+.logo{display:block;height:44px;background:#393f4f;text-align:center;color:#f1f2f4}.logged-in .logo{width:60px;height:60px;float:left}.logged-in .logo .icon-logofull{display:none}
+.logged-in .logo .icon-logo{display:block}
+.logged-in .logo .icon{line-height:60px}
+.logo:hover{color:#fff;text-decoration:none}
+.logo .icon{margin:0;line-height:44px;font-size:20px}
+.logo .icon-logo{display:none;width:60px;height:60px;float:left;color:#fff;font-size:28px;background:#ff643b}
+#logo-caret{position:absolute;top:7px;right:14px}
+#page-inner{position:relative;min-height:100%;margin:0 auto;padding:0;*zoom:1}#page-inner:before,#page-inner:after{display:table;content:""}
+#page-inner:after{clear:both}
+#offline-notification{padding-top:60px;text-align:center}#offline-notification p{display:inline-block;width:550px;margin:0;font-size:x-large;line-height:36px}
+#header{position:fixed;display:none;height:48px;top:0;right:0;left:0;background:#393f4f;z-index:11260}
+#sidebar{position:fixed;top:0;left:0;bottom:0;width:270px;background:#191e28}
+#sidebar-content{display:none}
+.css-loading #page-wrapper,.css-loading #footer,.css-loading #header-search,.css-loading #sidebar-overlay{display:none}
+.css-loading #player-wrapper,.css-loading #sidebar-content{visibility:hidden}
+#swfWrapper,#audioWrapper{position:absolute;top:0;left:0;z-index:0;overflow:hidden}
+.offline #page-wrapper{display:block}
+#alt-content,#https-iframe,.accessible-title{display:none !important}
+#html5ShimSwf{position:absolute;width:10px;height:10px;top:1000px;left:-1000px}
+.hide{display:none !important}
+@media only screen and (max-width: 529px),only screen and (min-width: 530px) and (max-width: 1024px){#header{display:block}}@media only screen and (max-width: 529px),only screen and (min-width: 530px) and (max-width: 1024px){#sidebar{display:none}#sidebar .sidebar-search-container{margin-top:5px} #container{padding:48px 0 0 0}}
+
+    </style>
+    <!--[if lte IE 7]>
+    <style type="text/css">
+        
+
+    </style>
+    <script type="text/javascript">
+        window.dataURISupport = false;
+    </script>
+    <![endif]-->
+        <link rel="stylesheet" type="text/css" id="promo-styles" />
+    <link rel="stylesheet" type="text/css" id="altStyle" />
+    <link rel="stylesheet" type="text/css" id="row-style" />
+
+    <meta property="og:title" name="title" content="Grooveshark" />
+    <meta property="og:url" content="http://grooveshark.com/" />
+    <meta property="og:image" content="http://grooveshark.com/webincludes/images/shareDefault200x200.png" />
+    <meta property="og:site_name" content="Grooveshark" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="fb:admins" content="53902385" />
+    <meta property="fb:admins" content="673509687" />
+    <meta property="fb:admins" content="516936428" />
+    <meta property="fb:admins" content="206800001" />
+    <meta property="fb:app_id" content="111132365592157" />
+    <link rel="dns-prefetch" href="//images.gs-cdn.net">
+
+<link rel="subresource" href="http://static-a.gs-cdn.net/static/core_20150318204307.js" />
+<link rel="subresource" href="http://static-a.gs-cdn.net/static/app_20150320183444.js" />
+<link rel="subresource" href="http://static-a.gs-cdn.net/static/production-uri_20150319191904.css" />
+<link rel="subresource" href="https://grooveshark.com/crossdomain.xml" />
+<script type="text/javascript">
+
+    window.GS = window.GS || {};
+
+    (function(win, doc) {
+        var loc = win.location,
+            p = loc.href.substring(loc.href.indexOf(loc.host) + loc.host.length);
+        win.GS.loadHash = p.substr(1);
+        if (p.length > 1 && p.indexOf('/#') !== 0) {
+            if (doc && doc.referrer && doc.referrer != '') {
+                var r = doc.referrer,
+                    t = new Date();
+                t.setTime(t.getTime() + 60000);
+                r = encodeURIComponent(r);
+                doc.cookie = "referrerURL=" + r + "; expires=" + t.toUTCString() + "; path=/; domain=." + loc.host;
+            }
+            win.location = loc.protocol + '//' + loc.host + '/#!' + p;
+        }
+
+        if (!win.console) win.console = {log: function() {}, error: function() {}, warn: function() {}, info: function() {}};
+        if (typeof win.console.time === 'undefined') {
+            var timers = {};
+            win.console.time = function(name) {
+                timers[name] = (new Date).getTime();
+            };
+            win.console.timeEnd = function(name) {
+                console.log('%s: %sms', name, (new Date).getTime() - timers[name]);
+            };
+        }
+        win.setupBridge = function(){};
+    })(window, document);
+    
+</script>
+
+</head>
+<body class="css-loading">
+    <userdata id="userDataTag" style="behavior: url(#default#userData);"></userdata>
+    <div id="fb-root"></div>
+
+    <div id="alt-content">
+        
+        <h1>Grooveshark - Free Music Streaming</h1>
+        <h2>Online Radio and Internet Streaming.</h2>
+        
+        <div class="navigation">
+            <a href="/genres">Genres</a>
+            <a href="/broadcasts">Broadcasts</a>
+            <a href="/community">Community Music</a>
+            <a href="/popular">Popular Music</a>
+        </div>
+        <noscript>
+        
+            <a href="http://grooveshark.com/" title="Grooveshark"><img src="http://www.grooveshark.com/webincludes/logo/Grooveshark_Logo_Horizontal.png" alt="Grooveshark" /></a>
+
+            <h2>Listen to free music online.</h2>
+            <p>Grooveshark provides free music streaming, online radio stations, and lets you connect with artists and friends.</p>
+            <p>Grooveshark is the world's largest international community of music lovers. Over 30 million people use Grooveshark to listen to their favorite music, discover new bands, and share across social networks.</p>
+            <p>Grooveshark also serves as a powerful platform for artists to promote, market, and monetize their music.</p>
+            <p>Get started by searching for music!</p>
+            <form method="get" action="/search/song" class="searchSite" name="searchSite" id="searchSite">
+                <input type="text" name="q" class="searchBoxInput" autocomplete="off" placeholder="Search for Music" />
+                <button id="searchSubmitButton" type="submit" class="submit" title="Search"></button>
+            </form>
+            <ul class="links">
+                <li><a href="http://grooveshark.com/about">About</a></li>
+                <li><a href="http://grooveshark.com/advertising">Advertise</a></li>
+                <li><a href="http://careers.grooveshark.com/">Careers</a></li>
+                <li><a href="http://mobile.grooveshark.com">Grooveshark Mobile Applications</a></li>
+                <li><a href="http://store.grooveshark.com/">Merchandise Store</a></li>
+                <li><a href="http://help.grooveshark.com/">Help</a></li>
+            </ul>
+        
+        </noscript>
+    </div>
+    
+    <div id="ocean">
+        
+
+    <div id="desktop-nav-bar"></div>
+
+    <div id="header">
+
+        <a class="hamburger-container">
+            <span class="hamburger"></span>
+        </a>
+
+        <a class="toggle-chat action">
+            <i class="icon icon-comment"></i>
+        </a>
+
+        <a class="open-autocomplete action">
+            <i class="icon icon-search"></i>
+        </a>
+
+        <a class="logo" href="/#!/">
+            <i class="icon icon-logofull"></i>
+        </a>
+
+        <form id="header-search" class="search-bar placeholder-container">
+            <i class="icon icon-search"></i>
+            <i class="icon icon-x clear-filter"></i>
+            <span class="placeholder-text" data-translate-text="SEARCH_FOR_MUSIC_2">Search For Music</span>
+            <input class="placeholder-input" name="q" type="text" value="" autocomplete="off" />
+        </form>
+
+    </div>
+
+    <div class="ac ac-overlay"></div>
+
+    <div id="sidebar-overlay">
+    <span class="tip"></span>
+</div>
+
+<div id="sidebar">
+
+    <div id="sidebar-content" data-active-tab="home">
+
+        <div id="logo-search">
+
+            <a class="logo" href="/#!/">
+                <i class="icon icon-logofull"></i>
+                <i class="icon icon-logo"></i>
+            </a>
+
+            <div class="sidebar-search-container">
+
+                <form id="sidebar-search" class="search-bar placeholder-container">
+                    <i class="icon icon-search"></i>
+                    <i class="icon icon-x clear-filter"></i>
+                    <span class="placeholder-text" data-translate-text="SEARCH_FOR_MUSIC_2">Search For Music</span>
+                    <input class="placeholder-input" name="q" type="text" value="" autocomplete="off" />
+                </form>
+
+            </div>
+
+        </div>
+
+        <div class="sidebar-nav">
+
+            <div class="btn-group switch">
+
+                <a class="btn main-nav-link home active" data-nav-section="home">
+                    <span class="label" data-translate-text="BROWSE">Browse</span>
+                </a>
+
+                <a class="btn main-nav-link queue" data-nav-section="queue">
+                    <span class="label queue-label">
+                        <span data-translate-text="QUEUE">Queue</span><span id="queue-count" class="hide">&nbsp;&#40;<span id="queue-num">0</span>&nbsp;<span class="of">of</span>&nbsp;<span id="queue-num-total">0</span>&#41;</span>
+                    </span>
+                    <span class="now-playing label hide" data-translate-text="NOW_PLAYING"><%= _.getString('NOW_PLAYING') %></span>
+                    <span class="songs-added-bg"></span>
+                    <span class="songs-added-num"></span>
+                </a>
+
+            </div>
+
+        </div>
+
+        <div class="sidebar-sections">
+
+            <div class="sidebar-section home" data-section="home"></div>
+
+            <div id="queue-container" class="sidebar-section queue" data-section="queue">
+
+                <div id="queue" class="scrollable" tabindex="9999">
+
+                    <div class="scrollbar no-show">
+                        <div class="thumb"></div>
+                    </div>
+
+                    <div class="queue-actions-container">
+
+                        <div class="sub-header queue-actions queue-header">
+
+                            <span class="title history-subtitle" data-translte-text="BROADCAST_HISTORY">Broadcast History</span>
+
+                            <div class="btn actions queue-trash">
+                                <i class="icon icon-trash queue-trash helper-tooltip">
+                                    <span class="accessible-title" data-translate-text="QUEUE_CLEAR_QUEUE">Clear Queue</span>
+                                </i>
+                            </div>
+
+                            <div class="btn queue-menu">
+                                <i class="icon icon-caretdown"></i>
+                                <span class="title">
+                                    <span data-translate-text="QUEUE">Queue</span>
+                                </span>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div id="queue-list-window" class="queue scroll-view">
+
+                        <div class="scroll-inner">
+
+                            <div class="queue-empty content">
+                                <div class="title" data-translate-text="QUEUE">QUEUE</div>
+                                <span class="desc" data-translate-text="QUEUE_EMPTY_DESC"></span>
+                            </div>
+
+                            <div id="queue-list" class="queue empty"></div>
+
+                            <div class="suggested-broadcasts-container content hide">
+
+                                <div class="sub-header">
+                                    <span class="title" data-translate-text="SUGGESTED_BROADCASTS"><%= _.getString('SUGGESTED_BROADCASTS') %></span>
+                                </div>
+
+                                <div class="suggested-bcasts"></div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+    <div id="chat-sidebar" class="hide"></div>
+
+    <div id="app-overlay"></div>
+
+    <div id="player-wrapper"><div id="player-container"><div id="player"><div id="restore-queue"><a class="btn btn-full queue-restore"><i class="icon icon-refresh"></i><span class="label" data-translate-text="RESTORE_QUEUE_2">Restore Queue</span></a></div><div id="now-playing"><div class="bc-title action-fade"><i class="icon icon-caretdown bc-menu"></i><a class="bc-link"><i class="icon icon-broadcast"></i><span class="title"></span></a></div><div class="bc-actions action-fade"><span class="bc-votes"></span><a id="player-upvote" class="icon icon-thinarrow-up upvote helper-tooltip bc-action"><span class="accessible-title" data-translate-text="UPVOTE">Upvote</span></a><a id="player-downvote" class="icon icon-thinarrow-down downvote helper-tooltip bc-action"><span class="accessible-title" data-translate-text="DOWNVOTE">Downvote</span></a></div><div id="play-controls" class="action-fade"><a id="play-prev" class="icon icon-previous player-btn helper-tooltip"><span class="accessible-title" data-translate-text="QUEUE_PREV_SONG">Previous Song</span></a><a id="play-pause" class="icon icon-play player-btn helper-tooltip"><span class="accessible-title" data-translate-text="PLAY">Play</span></a><a id="play-next" class="icon icon-next player-btn helper-tooltip"><span class="accessible-title" data-translate-text="NEXT_SONG">Next Song</span></a></div><div id="player-options" class="action-fade"><a id="volume" class="player-option"><i class="icon icon-volume helper-tooltip"><span class="accessible-title" data-translate-text="QUEUE_SOUND_VOLUME_MUTE">Sound Volume. Click to Mute.</span></i></a><div id="volume-control"><div id="volume-grip"><div id="volume-slider"><div class="ui-slider-range"></div><a class="ui-slider-handle"></a></div></div></div><a id="shuffle" class="player-option"><i class="icon shuffle icon-shuffle helper-tooltip"><span class="accessible-title" data-translate-text="SHUFFLE">Shuffle</span></i></a><a id="repeat" class="player-option"><i class="icon repeat icon-repeat helper-tooltip"><span class="accessible-title" data-translate-text="REPEAT">Repeat</span></i><i class="icon repeat icon-repeat-once helper-tooltip"><span class="accessible-title" data-translate-text="REPEAT_ONE">Repeat-One</span></i></a><a id="crossfade" class="player-option"><i class="icon crossfade icon-crossfade helper-tooltip"><span class="accessible-title" data-translate-text="CROSSFADE">Crossfade</span></i></a><a id="bc-btn" class="player-option start-broadcast"><i class="icon broadcast icon-broadcast helper-tooltip"><span class="accessible-title" data-translate-text="START_BROADCASTING">Start Broadcasting</span></i></a></div><div id="np-title-actions"><div class="img-container action-fade"><img id="now-playing-image" class="img" cross-origin=""><div class="spinner"><div class="bounce bounce1"></div><div class="bounce bounce2"></div><div class="bounce bounce3"></div></div></div><div id="now-playing-metadata" class="metadata action-fade"><a class="now-playing-link song no-title-tooltip" data-tooltip-cache-key="playerSong"></a><a class="now-playing-link artist no-title-tooltip" data-tooltip-cache-key="playerArtist"></a></div><div class="np-actions"><a id="np-fav" class="icon icon-heart bubble np-action helper-tooltip favorite" title="Add to Favorites" data-translate-title="CONTEXT_ADD_TO_FAVORITES"></a><a id="np-playlists" class="icon icon-playlist bubble helper-tooltip np-action" title="Add to..." data-translate-title="ADD_TO_MORE"></a><a id="np-repost" class="icon icon-repost bubble helper-tooltip np-action" title="Share to Feed" data-translate-title="SHARE_TO_FEED"></a><a id="np-more" class="icon icon-more bubble helper-tooltip np-action" title="More Options..." data-translate-title="MORE_OPTIONS"></a></div><div class="progress-container action-fade"><span id="time-elapsed" class="now-playing-time">00:00</span><div id="progress-bar"><div id="scrubber"></div><div id="buffered"></div><div id="elapsed"></div></div><span id="time-total" class="now-playing-time">00:00</span></div></div></div></div><img id="player-bg" class="player-bg player-bg1 active no-bg" /><img id="player-bg2" class="player-bg player-bg2 no-bg" /></div></div>
+
+    <div id="lightbox-outer" class="hide-lb">
+    <div id="lightbox">
+        
+        <a id="lightbox-close" class="hide close btn btn-rounded btn-icon-only btn-dark">
+            <i class="icon icon-x"></i>
+        </a>
+        
+        <div id="lightbox-inner"></div>
+        
+    </div>
+</div>
+
+<div id="lightbox-overlay" class="hide-lb"></div>
+    <div id="notifications"></div>
+
+    <iframe name="https-iframe" id="https-iframe" class="https" ondominitialize="window.setupBridge()"></iframe>
+    <form action="" id="https-form" class="hide" target="https-iframe" enctype="multipart/form-data" method="post"></form>
+    <div id="gs-login-container" class="hide">
+
+    <form id="gs-login-form" class="vertical" target="loginIframe" method="post" action="https://grooveshark.com/empty.html">
+    
+        <div class="field-container">
+
+            <label class="field-label" for="login-username">
+                <span class="label" data-translate-text="FORM_USERNAME_2"></span>
+                <a class="forgot action" data-translate-text="FORM_FORGOT_PASSWORD_2"></a>
+            </label>
+
+            <input type="text" id="login-username" name="username" />
+
+        </div>
+
+        <div class="field-container">
+
+            <label class="field-label" for="login-password">
+                <span class="label" data-translate-text="PASSWORD"></span>
+            </label>
+
+            <input type="password" id="login-password" name="password" />
+
+        </div>
+
+        <input type="submit" class="submit-btn" />
+        
+    </form>
+    
+</div>
+
+<iframe id="loginIframe" name="loginIframe" class="hide" frameborder="0"></iframe>
+
+    <div id="container">
+
+        <div id="top-hat" class="hide">
+            <div class="inner"></div>
+            <a class="icon icon-x close-top-hat hide"></a>
+        </div>
+
+        <a id="jh-feedback" class="hide">Feedback</a>
+
+        <div id="theme-container"></div>
+        <div id="capital-column"></div>
+        <div id="capital-dock"></div>
+
+        <div id="page-inner">
+    <noscript>
+        <p>Grooveshark requires JavaScript to be enabled.  Visit our <a href="http://help.grooveshark.com/customer/portal/articles/305023-grooveshark-requires-javascript">help article</a> for assistance.</p>
+    </noscript>
+
+    <div id="offline-notification" class="hide">
+        <p></p>
+    </div>
+</div>
+
+    </div>
+
+
+    </div>
+
+
+
+
+<script type="text/javascript">
+    var gotGSStyle = false,
+        tmpCache = {};
+
+    (function(root, undefined) {
+       var getXHR = (function() {
+           // need the try..catch for XHR
+           try {
+               var defaultReq = XMLHttpRequest;
+               new defaultReq();
+               return function() { return new defaultReq(); };
+           } catch (e) {
+               return function() { return new ActiveXObject('Microsoft.XMLHTTP'); };
+           }
+       })();
+
+       var noop = function() {},
+           slice = Array.prototype.slice;
+
+       var miniDfd = function() {
+           var pass = [], fail = [], _this = this, _r = 'resolved', _rj = 'rejected', _p = 'pending',
+               state = _p, data;
+           var change = function(newState, args) {
+               if (state != _p) return _this;
+               var i = 0, l, callbacks;
+               data = slice.call(args, 0);
+               state = newState;
+               if (state == _r) {
+                   callbacks = pass;
+               } else {
+                   callbacks = fail;
+               }
+               for (l = callbacks.length; i < l; i++) {
+                   callbacks[i].apply(_this, data);
+               }
+               pass = fail = [];
+               return _this;
+           };
+           this.resolve = function() { return change(_r, arguments); };
+           this.reject = function() { return change(_rj, arguments); };
+           this.done = function(func) {
+               if (state == _p) pass.push(func);
+               if (state == _r) func.apply(_this, data);
+               return _this;
+           };
+           this.fail = function(func) {
+               if (state == _p) fail.push(func);
+               if (state == _rj) func.apply(_this, data);
+               return _this;
+           };
+           this.then = function(func, func2) {
+               if (func) _this.done(func);
+               if (func2) _this.fail(func2);
+               return _this;
+           };
+           this.state = function() { return state; };
+       };
+
+       root.gsPreloadAjax = function(opts) {
+           var method = (opts.method || 'GET').toUpperCase(),
+               url = opts.url,
+               data = opts.data,
+               dfd = new miniDfd,
+               xhr = getXHR(),
+               body = data;
+
+           if (method == 'GET' && data) {
+               url = url + "?" + data;
+               body = '';
+           }
+
+           var callback = function() {
+               var response = null, status = 0;
+               try {
+                   if (xhr.readyState != 4) {
+                       return;
+                   }
+                   response = xhr.responseText;
+                   status = xhr.status;
+                   if (status == 1223) status = 204;
+                   if (status && status - 200 < 100) {
+                       dfd.resolve(response, status, xhr);
+                       return;
+                   }
+               } catch (e) {}
+               dfd.reject(xhr, status, response);
+           };
+
+           xhr.open(method, url, true);
+           if (method == 'POST') {
+               xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+           }
+           xhr.send(body || null);
+
+           if (xhr.readyState == 4) {
+               setTimeout(callback, 10);
+           } else {
+               xhr.onreadystatechange = callback;
+           }
+
+           dfd.xhr = xhr;
+           return dfd;
+       };
+   })(window);
+
+
+    (function(root) {
+
+
+    var userAgent = (navigator.userAgent || ''),
+        userAgentLower = userAgent.toLowerCase(),
+        isMSIE = /(msie) ([\w.]+)/.exec(userAgentLower),
+        clientPage = encodeURIComponent(root.GS.loadHash.substr(2));
+
+    root.gsAddCSS = function(url, opts) {
+        var doc = document,
+            legacy = false,
+            stylesheets = doc.styleSheets,
+            interval = null,
+            loaded = false,
+            options = opts || {};
+
+        function onGSStyleLoad() {
+            if (loaded) return;
+            loaded = true;
+            clearInterval(interval);
+            interval = null;
+            if (options.callback) {
+                options.callback();
+            }
+        }
+        function checkGSStyle(index) {
+            try {
+                if (stylesheets[index].cssRules || (stylesheets[index].rules && stylesheets[index].rules.length)) {
+                    onGSStyleLoad();
+                    return;
+                }
+            } catch(e) {}
+            if (interval === null && !gotGSStyle) {
+                interval = setInterval(function() {
+                    checkGSStyle(index);
+                }, 20);
+            }
+        }
+
+        var cssIndex = doc.styleSheets.length - 1,
+            sp = document.getElementsByTagName('head')[0] || document.getElementsByTagName('script')[0].parentNode,
+            legacyVersion;
+        if (legacyVersion = /Firefox[\/\s](\d+\.\d+)/.exec(userAgent)) {
+            if (legacyVersion[1] - 0 < 9) {
+                legacy = true;
+            }
+        }
+        if (/WebKit[\/\s](\d+\.\d+)/.test(userAgent) && !(/Chrome[\/\s](\d+\.\d+)/.test(userAgent))) {
+            legacyVersion = /WebKit[\/\s](\d+\.\d+)/.exec(userAgent);
+            if (legacyVersion && legacyVersion[1] - 0 < 536) {
+                legacy = true;
+            }
+        }
+
+        var style, css;
+        if (legacy) {
+            style = doc.createElement("style");
+            style.type = "text/css";
+            style.textContent = ['@import url("', url, '");'].join('');
+            sp.appendChild(style);
+        } else {
+            css = doc.createElement("link");
+            css.rel = "stylesheet";
+            css.type = "text/css";
+            css.async = 'true';
+            css.media = 'only x';
+            css.onload = onGSStyleLoad;
+            css.onreadystatechange = function () { if (this.readyState == 'complete' || this.readyState == 'loaded') onGSStyleLoad(); };
+            css.href = url;
+            sp.appendChild(css);
+            setTimeout(function() {
+                css.media = 'all';
+            }, 10);
+        }
+        checkGSStyle(cssIndex + 1);
+
+        return css || style;
+    };
+    root.gsAddScript = function(url, opts) {
+        var doc = document,
+            newScript = doc.createElement('script'),
+            s = doc.getElementsByTagName('script')[0],
+            sp = s.parentNode,
+            options = opts || {},
+            ran = false;
+
+        newScript.type = 'text/javascript';
+        newScript.async = 'true';
+        if (options.cors) {
+            newScript.crossOrigin = 'anonymous';
+        }
+        if (options.id) {
+            newScript.id = options.id;
+        }
+        if (options.callback) {
+            var once = function() {
+                if (isMSIE && this.readyState && this.readyState !== "complete" && this.readyState !== "loaded") {
+                    return;
+                }
+                if (ran) return;
+                ran = true;
+                options.callback.call(this);
+            };
+            newScript.onload = newScript.onreadystatechange = once;
+        }
+        newScript.src = url;
+        sp.insertBefore(newScript, s);
+        return newScript;
+    };
+    
+                var gsStyleURL = 'http://static-a.gs-cdn.net' + (root.dataURISupport === false ? '/static/production_20150319191904.css' : '/static/production-uri_20150319191904.css');
+        
+    setTimeout(function() {
+        var gsStyleCallback = function() {
+                if (!root.gotGSStyle) {
+                    root.gotGSStyle = true;
+                    if (GS && GS.trigger) {
+                        GS.trigger('gsStyle:ready');
+                    }
+                }
+            };
+        gsAddCSS(gsStyleURL, {callback: gsStyleCallback});
+    }, 10);
+    
+
+        if (root.parentSandboxBridge) {
+            function getStylesheet(uri) {
+                root.parentSandboxBridge.consoleWarn(uri);
+                document.write('<link href="'+uri+'" rel="stylesheet" type="text/css" >');
+            }
+
+
+            if (root.gsProduction && root.gsProduction.LB_CSS) {
+                if (gsProduction.LB_CSS.assetPath) {
+                    getStylesheet(gsProduction.LB_CSS.assetPath);
+                }
+            }
+        }
+
+
+
+        var s = document.getElementsByTagName('script')[0],
+            sp = s.parentNode,
+            img = new Image(),
+            ts = +(new Date()),
+            xsd = "https://" + root.location.host + "/crossdomain.xml",
+            coreURI;
+
+        gsPreloadAjax({url: '/preload.php?hash=' + clientPage + '&' + ts}).done(function(data) {
+            window.preloadedDataTotalTime = +(new Date()) - ts;
+            window.preloadedDataTotalSize = (data || '').length;
+            Function(data)();
+        });
+        gsPreloadAjax({url: '/preload.php?getCommunicationToken=1&hash=' + clientPage + '&' + ts}).done(function(data) {
+            Function(data)();
+        });
+
+        if (/(msie) ([\w.]+)/.exec(userAgentLower)) {
+            coreURI = '/static/core-compat_20150318204307.js';
+        } else {
+            coreURI = '/static/core_20150318204307.js';
+        }
+
+        var coreURL = 'http://static-a.gs-cdn.net' + coreURI,
+            appURL = 'http://static-a.gs-cdn.net/static/app_20150320183444.js',
+            gaURL = '//www.google-analytics.com/analytics.js',
+            csURL = 'http://grooveshark.com/webincludes/js/beacon.js';
+        gsAddScript(coreURL, {id: 'coreJS'});
+        gsAddScript(appURL);
+
+    
+        (function(window) {
+            //Small amount of GA setup for Universal Analytics
+            window.GoogleAnalyticsObject = 'ga';
+            window.ga = window.ga || function() {
+                (window.ga.q = window.ga.q || []).push(arguments);
+            };
+            window.ga.l = 1 * new Date();
+        })(window);
+        gsAddScript(gaURL); // google analytics
+        gsAddScript(csURL); // comScore
+
+        var readCookieKey = function(name) {
+            var cookies = document.cookie.split(";"),
+                i = 0, l = cookies.length,
+                namePreSpace = ' ' + name,
+                namePostSpace = name + ' ',
+                nameSpaces = namePreSpace + ' ',
+                n, v, s;
+            for (; i < l; i++) {
+                s = cookies[i].indexOf("=");
+                n = cookies[i].substr(0, s);
+                v = cookies[i].substr(s + 1);
+                if (n === name || n === namePreSpace || n === namePostSpace || n === nameSpaces) {
+                    return unescape(v);
+                }
+            }
+        };
+
+        // Initial GA pageview is done in the router
+        var overrideReferrer = readCookieKey('referrerURL');
+        ga('create', 'UA-1894124-3', 'auto');
+        ga('set', 'referrer', overrideReferrer);
+        ga('require', 'displayfeatures');
+
+    
+
+        tmpCache[xsd] = img;
+        img.onload = img.onerror = function() { delete tmpCache[xsd]; };
+        img.src = xsd;
+        s = sp = img = null;
+
+
+    })(window);
+
+</script>
+
+
+    <div id="swfWrapper">
+        <!--[if lt IE 11]>
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="10" height="10" id="html5ShimSwf" name="html5ShimSwf">
+            <param name="movie" value="/static/HTML5Shim_20150216233307.swf" />
+            <param name="allowscriptaccess" value="always" />
+            <param name="hasPriority" value="true" />
+        </object>
+        <![endif]-->
+        <!--[if !IE]><!-->
+        <object type="application/x-shockwave-flash" data="/static/HTML5Shim_20150216233307.swf" width="10" height="10" id="html5ShimSwf" name="html5ShimSwf">
+            <param name="allowscriptaccess" value="always" />
+            <param name="hasPriority" value="true" />
+        </object>
+        <!--<![endif]-->
+    </div>
+    <div id="audioWrapper"></div>
+
+</body>
+</html>
